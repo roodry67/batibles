@@ -1,11 +1,8 @@
 ---
 tipo: criatura
-estado:
-aliases:
-  -
+estado: "pendiente"
+aliases: []
 primera_aparicion:
-tramas:
-  -
 tags:
   - criatura
 ---
@@ -16,10 +13,12 @@ TODO: ACTUALIZAR tras la sesion.
 
 ## Resumen
 
+## Contexto de aparicion
+
 ## Rasgos conocidos
 
-## Apariciones
+## Comportamiento observado
 
-## Relacion con tramas
+## Enlaces relevantes
 
 ## Dudas

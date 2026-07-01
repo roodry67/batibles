@@ -1,6 +1,6 @@
-﻿---
+---
 tipo: objeto
-estado:
+estado: "desconocido"
 aliases:
   - "piedra de alma"
 primera_aparicion: "[[S011 - Información sobre Trizzen, Quamara y la torre]]"
@@ -12,25 +12,29 @@ tags:
 
 ## Resumen
 
-La piedra de alma de la saga es un objeto entregado o prestado por [[Agatha]] a [[Quamara]] como parte del trato entre ambas. Quamara la usaba junto con un tomo del [[Demonomicon]] para manipular almas, demonios o energía dracónica.
+Objeto entregado o prestado por [[Agatha]] a [[Quamara]] como parte de su pacto. Parece relacionado con manipulación de almas, demonios y la transformación o fusión de Quamara.
 
-## Información confirmada
+## Informacion confirmada
 
-- Está vinculada a [[Agatha]], la saga nocturna de Archwood.
-- Agatha se la dejó a [[Quamara]] como parte de su trato.
-- Parece relacionada con la creación o manipulación de demonios.
-- También parece conectada con almas o energía dracónica.
-- Quamara la usaba junto con el tomo del [[Demonomicon]].
+- Agatha dejó a Quamara una piedra de alma.
+- La piedra aparece junto al tomo del [[Demonomicon]] como herramienta clave del trato.
+- Quamara manipulaba magia demoníaca y almas usando el tomo y la piedra.
+- Puede estar relacionada con los [[draegloth]], el [[troll dragón verde]] y la conexión de Quamara con energía dracónica o demoníaca.
 
-## Relaciones
+## Enlaces relevantes
 
-- [[Agatha]]: fuente o propietaria de la piedra.
-- [[Quamara]]: usuaria de la piedra.
-- [[Demonomicon]]: tomo usado junto con la piedra.
-- [[Torre de Quamara]]: lugar donde aparece ligada a la actividad de Quamara.
+- [[Agatha]]
+- [[Quamara]]
+- [[Demonomicon]]
+- [[Torre de Quamara]]
+- [[Trama - Sagas de los Valles]]
+
+## Sesiones clave
+
+- [[S011 - Información sobre Trizzen, Quamara y la torre]]
+- [[S016 - Infiltración y asalto a la torre de Quamara]]
 
 ## Dudas
 
-- Confirmar el paradero actual de la piedra.
-- Confirmar si la piedra conserva almas, energía dracónica o ambas cosas.
-- Confirmar si Agatha puede recuperarla o rastrearla.
+- Confirmar qué ocurrió con la piedra tras la muerte de Quamara.
+- Confirmar si Agatha puede reclamarla, rastrearla o volver a usarla.

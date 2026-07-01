@@ -12,6 +12,7 @@ tags:
 - [[Estado actual de la campaña]]
 - [[Pistas y preguntas]]
 - [[Agenda actual]]
+- [[Preparacion de sesion en directo]]
 
 ## Actos
 
@@ -30,6 +31,5 @@ tags:
 - [[Trama - Profecía del dragón blanco y el dragón rojo]]
 - [[Transmutación del alma]]
 - [[Ashabenford]]
-
 
 

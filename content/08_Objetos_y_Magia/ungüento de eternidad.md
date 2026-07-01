@@ -1,11 +1,9 @@
-﻿---
+---
 tipo: objeto
-estado:
+estado: "aplicado"
 aliases:
-  -
-primera_aparicion:
-tramas:
-  -
+  - "unguento de eternidad"
+primera_aparicion: "[[S032 - Clérigo nigromante, Kazar y pacto con Tens]]"
 tags:
   - objeto
 ---
@@ -14,26 +12,26 @@ tags:
 
 ## Resumen
 
-Ungüento usado para conservar cadáveres sin degradación durante un periodo prolongado.
+Recurso aplicado al cuerpo del [[Clérigo de Kazar]] para impedir que se degrade durante un año y permitir futuros interrogatorios mediante [[Hablar con los muertos]].
 
 ## Informacion confirmada
 
-- [[Bram]] lo aplica al cadáver del [[Clérigo de Kazar]].
-- Permite conservar el cuerpo durante aproximadamente un año, evitando olor y descomposición.
-- Se usa para poder interrogar al cadáver con [[Hablar con los muertos]] en distintas ocasiones.
-- Es relevante para la búsqueda de una forma de separar a [[Firkraag]] de [[Bram]], porque el clérigo estaba realizando un ritual nigromántico.
+- [[Bram]] se lleva el cuerpo del clérigo en la bolsa dimensional.
+- Le aplica el ungüento para conservarlo.
+- La intención es interrogarlo periódicamente con Hablar con los muertos.
 
-## Apariciones
+## Enlaces relevantes
+
+- [[Clérigo de Kazar]]
+- [[Bram]]
+- [[Kazar]]
+- [[Hablar con los muertos]]
+- [[Trama - Kazar]]
+
+## Sesiones clave
 
 - [[S032 - Clérigo nigromante, Kazar y pacto con Tens]]
 
-## Tramas asociadas
-
-- [[Trama - Kazar]]
-- [[Trama - Firkraag]]
-
-## Hipotesis
-
 ## Dudas
 
-
+- Confirmar fecha límite exacta del año de conservación.

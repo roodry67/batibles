@@ -24,6 +24,6 @@ tags:
 
 ## Objetos relevantes
 
-## Apariciones clave
+## Momentos clave
 
 ## Dudas

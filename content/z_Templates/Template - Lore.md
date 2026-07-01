@@ -1,18 +1,19 @@
 ---
 tipo: lore
-estado:
-aliases:
-  -
-tramas:
-  -
+estado: "pendiente"
+aliases: []
 primera_aparicion:
 tags:
   - lore
 ---
 
-# Titulo de lore
+# {{VALUE:titulo}}
+
+TODO: ACTUALIZAR tras la sesion.
 
 ## Resumen
+
+## Contexto de aparicion
 
 ## Informacion confirmada
 
@@ -22,6 +23,6 @@ tags:
 
 ## Entidades relacionadas
 
-## Tramas asociadas
+## Enlaces relevantes
 
 ## Dudas

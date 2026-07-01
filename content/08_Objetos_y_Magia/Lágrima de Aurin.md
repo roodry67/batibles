@@ -1,11 +1,9 @@
-﻿---
+---
 tipo: objeto
-estado:
+estado: "artefacto historico"
 aliases:
-  -
+  - "Lagrima de Aurin"
 primera_aparicion: "[[S023 - Pozos de Cobre y Váriuk]]"
-tramas:
-  -
 tags:
   - objeto
 ---
@@ -14,17 +12,28 @@ tags:
 
 ## Resumen
 
-Objeto asociado al pasado aventurero de [[Variuk]] y [[Malazuth]]. El grupo reconoce una réplica de la Lágrima de Aurin en el collar de Váriuk.
+Artefacto importante mencionado por [[Variuk]] en [[Pozos de Cobre]]. Su robo llegó a congelar un valle entero y fue recuperado por el antiguo grupo de [[Malazuth]].
 
-## Información confirmada
+## Informacion confirmada
 
-- Alguien robó la Lágrima de Aurin en el pasado.
-- Ese robo congeló un valle entero.
-- Váriuk, Malazuth y sus compañeros participaron en la recuperación del objeto.
-- Váriuk conserva un collar o réplica como recuerdo o recompensa.
+- El grupo reconoce el collar de Variuk como una réplica de la Lágrima de Aurin.
+- Variuk cuenta que Malazuth era amigo suyo.
+- Variuk, Malazuth y otros compañeros recuperaron la Lágrima tras su robo.
+- El robo del artefacto congeló un valle entero.
 
-## Apariciones
+## Enlaces relevantes
+
+- [[Variuk]]
+- [[Malazuth]]
+- [[Borin]]
+- [[Brevo]]
+- [[Pozos de Cobre]]
+
+## Sesiones clave
 
 - [[S023 - Pozos de Cobre y Váriuk]]
 
+## Dudas
 
+- Confirmar dónde está ahora la Lágrima real.
+- Confirmar quién formaba exactamente el antiguo grupo que la recuperó.

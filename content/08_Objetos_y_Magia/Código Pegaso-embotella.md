@@ -1,33 +1,36 @@
-﻿---
-tipo: objeto
-estado:
+---
+tipo: recurso
+estado: "activo"
 aliases:
-  -
-primera_aparicion:
-tramas:
-  -
+  - "Codigo Pegaso-embotella"
+  - "Pegaso embotella"
+primera_aparicion: "[[S037 - Código anti-Arasyl]]"
 tags:
-  - objeto
+  - recurso
 ---
 
 # Código Pegaso-embotella
 
 ## Resumen
 
-Nota inicial generada desde las apariciones en el log maestro. Pendiente de ampliar con las fuentes tematicas y revision manual.
+Código acordado por el grupo para distinguir a [[Lysara]] de [[Arasyl]] ante el riesgo de suplantación.
 
 ## Informacion confirmada
 
-- Aparece o se menciona en las sesiones listadas abajo.
+- El grupo establece el par de palabras "Pegaso" / "embotella".
+- Su objetivo es verificar si una Lysara encontrada es la verdadera o si podría tratarse de Arasyl.
+- Es especialmente relevante durante la aproximación a la [[Arboleda de Cormanthor]].
 
-## Apariciones
+## Enlaces relevantes
+
+- [[Lysara]]
+- [[Arasyl]]
+- [[Trama - Arasyl en Cormanthor]]
+
+## Sesiones clave
 
 - [[S037 - Código anti-Arasyl]]
 
-## Tramas asociadas
-
-## Hipotesis
-
 ## Dudas
 
-
+- Confirmar si el código sigue siendo seguro si Arasyl escucha al grupo o accede a recuerdos de Lysara.

@@ -2,12 +2,9 @@
 tipo: lugar
 region:
 controlado_por:
-estado:
-aliases:
-  -
+estado: "pendiente"
+aliases: []
 primera_aparicion:
-tramas:
-  -
 tags:
   - lugar
 ---
@@ -17,6 +14,8 @@ tags:
 TODO: ACTUALIZAR tras la sesion.
 
 ## Resumen
+
+## Contexto de aparicion
 
 ## Descripcion
 
@@ -28,8 +27,8 @@ TODO: ACTUALIZAR tras la sesion.
 
 ## NPCs asociados
 
-## Eventos ocurridos aqui
+## Eventos relevantes
 
-## Tramas asociadas
+## Enlaces relevantes
 
 ## Dudas

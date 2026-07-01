@@ -1,33 +1,37 @@
-﻿---
-tipo: objeto
-estado:
-aliases:
-  -
-primera_aparicion:
-tramas:
-  -
+---
+tipo: magia
+estado: "retenido por el grupo"
+aliases: []
+primera_aparicion: "[[S003 - Exploración del templo de Oghma]]"
 tags:
-  - objeto
+  - magia
 ---
 
 # Contrahechizo
 
 ## Resumen
 
-Nota inicial generada desde las apariciones en el log maestro. Pendiente de ampliar con las fuentes tematicas y revision manual.
+Pergamino especialmente importante recuperado en el [[templo de Oghma]]. El grupo decidió no entregarlo a [[Violeta]] ni a los [[Magos Rojos de Thay]] por considerarlo demasiado peligroso.
 
 ## Informacion confirmada
 
-- Aparece o se menciona en las sesiones listadas abajo.
+- Se recupera junto a otros materiales arcanos del templo.
+- El grupo lo identifica como suficientemente valioso o peligroso como para ocultarlo.
+- En la línea de [[Orosul]], los Batibles buscan un [[pergaminos nethereses|pergamino netherés]] alternativo para entregar a [[Malazuth]] sin perder este.
 
-## Apariciones
+## Enlaces relevantes
+
+- [[templo de Oghma]]
+- [[Violeta]]
+- [[Magos Rojos de Thay]]
+- [[Orosul]]
+- [[pergaminos nethereses]]
+
+## Sesiones clave
 
 - [[S003 - Exploración del templo de Oghma]]
 
-## Tramas asociadas
-
-## Hipotesis
-
 ## Dudas
 
-
+- Confirmar quién lo conserva actualmente.
+- Confirmar si puede usarse una sola vez o copiarse/aprenderse.

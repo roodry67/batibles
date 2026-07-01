@@ -1,11 +1,10 @@
-﻿---
+---
 tipo: objeto
-estado:
+estado: "en posesion de Salyriam"
+poseedor_actual: "[[Salyriam]]"
 aliases:
-  -
-primera_aparicion:
-tramas:
-  -
+  - "Mascara blanca de Tiamat"
+primera_aparicion: "[[S032 - Clérigo nigromante, Kazar y pacto con Tens]]"
 tags:
   - objeto
 ---
@@ -14,20 +13,27 @@ tags:
 
 ## Resumen
 
-Nota inicial generada desde las apariciones en el log maestro. Pendiente de ampliar con las fuentes tematicas y revision manual.
+Objeto en posesión de [[Salyriam]], entregado por [[Daron]] y su antiguo grupo antes de que ella fuese reina. Puede ser clave para la profecía del dragón blanco y el dragón rojo.
 
 ## Informacion confirmada
 
-- Aparece o se menciona en las sesiones listadas abajo.
+- [[Tens]] revela que Salyriam tiene la máscara.
+- [[Daron]] y su antiguo grupo se la entregaron antes de que fuese reina.
+- La información aparece junto a la profecía del choque entre dragón blanco y dragón rojo.
+- En esa lectura, Salyriam encaja como dragón blanco y [[Firkraag]] como dragón rojo.
 
-## Apariciones
+## Enlaces relevantes
+
+- [[Salyriam]]
+- [[Daron]]
+- [[Firkraag]]
+- [[Trama - Profecía del dragón blanco y el dragón rojo]]
+
+## Sesiones clave
 
 - [[S032 - Clérigo nigromante, Kazar y pacto con Tens]]
 
-## Tramas asociadas
-
-## Hipotesis
-
 ## Dudas
 
-
+- Confirmar qué poderes o influencia tiene la máscara.
+- Confirmar por qué Daron y su antiguo grupo la entregaron a Salyriam.

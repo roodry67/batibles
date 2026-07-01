@@ -1,11 +1,9 @@
-﻿---
+---
 tipo: objeto
-estado:
+estado: "activa"
 aliases:
-  -
-primera_aparicion:
-tramas:
-  -
+  - "Brujula de Arasyl"
+primera_aparicion: "[[S005 - La carta que crea a Arasyl]]"
 tags:
   - objeto
 ---
@@ -14,20 +12,26 @@ tags:
 
 ## Resumen
 
-Nota inicial generada desde las apariciones en el log maestro. Pendiente de ampliar con las fuentes tematicas y revision manual.
+Objeto creado o entregado por [[Kharnar]] para rastrear a [[Arasyl]], el doble moralmente opuesto de [[Lysara]] nacido del [[Deck of Many Things]].
 
 ## Informacion confirmada
 
-- Aparece o se menciona en las sesiones listadas abajo.
+- Kharnar entrega o crea la brújula después de la aparición de Arasyl.
+- Su función conocida es orientar al grupo hacia Arasyl.
+- La brújula acaba apuntando hacia [[Cormanthor]], lo que lleva al grupo hacia [[Ashabenford]] y la [[Arboleda de Cormanthor]].
 
-## Apariciones
+## Enlaces relevantes
+
+- [[Arasyl]]
+- [[Lysara]]
+- [[Kharnar]]
+- [[Deck of Many Things]]
+- [[Trama - Arasyl en Cormanthor]]
+
+## Sesiones clave
 
 - [[S005 - La carta que crea a Arasyl]]
 
-## Tramas asociadas
-
-## Hipotesis
-
 ## Dudas
 
-
+- Confirmar límites: distancia, interferencias, si apunta a Arasyl aunque esté disfrazada o si puede ser engañada.

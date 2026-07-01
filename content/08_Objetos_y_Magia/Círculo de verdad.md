@@ -1,33 +1,37 @@
-﻿---
-tipo: objeto
-estado:
+---
+tipo: magia
+estado: "usado"
 aliases:
-  -
-primera_aparicion:
-tramas:
-  -
+  - "Circulo de verdad"
+primera_aparicion: "[[S025 - Bastian, baliza y ataque de Draconia]]"
 tags:
-  - objeto
+  - magia
 ---
 
 # Círculo de verdad
 
 ## Resumen
 
-Nota inicial generada desde las apariciones en el log maestro. Pendiente de ampliar con las fuentes tematicas y revision manual.
+Recurso mágico usado por [[Bram]] para ganar tiempo durante la confrontación con [[Bastian]] en el campamento rebelde.
 
 ## Informacion confirmada
 
-- Aparece o se menciona en las sesiones listadas abajo.
+- Bram intenta ganar tiempo dentro de un Círculo de verdad.
+- Ocurre poco antes o durante el bloque que termina con la activación de la [[Baliza de Daron]].
+- Forma parte de la tensión con [[Bastian]], [[Karasta]] y los restos de [[la Inquisición]].
 
-## Apariciones
+## Enlaces relevantes
+
+- [[Bram]]
+- [[Bastian]]
+- [[Karasta]]
+- [[la Inquisición]]
+- [[Baliza de Daron]]
+
+## Sesiones clave
 
 - [[S025 - Bastian, baliza y ataque de Draconia]]
 
-## Tramas asociadas
-
-## Hipotesis
-
 ## Dudas
 
-
+- Confirmar qué declaraciones exactas se hicieron bajo el círculo, si alguna fue vinculante.

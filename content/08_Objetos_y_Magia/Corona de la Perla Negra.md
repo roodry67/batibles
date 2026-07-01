@@ -1,11 +1,8 @@
-﻿---
+---
 tipo: objeto
-estado:
-aliases:
-  - "Corona del kraken"
-primera_aparicion:
-tramas:
-  -
+estado: "recuperada"
+aliases: []
+primera_aparicion: "[[S030 - Templo de Olhydra]]"
 tags:
   - objeto
 ---
@@ -14,22 +11,26 @@ tags:
 
 ## Resumen
 
-Corona vinculada al [[Cayo de la Bruma]] y al [[templo de Olhydra]]. En notas anteriores aparecía como "Corona del kraken".
+Objeto mágico relevante recuperado o descubierto durante la exploración del [[templo de Olhydra]] en el [[Cayo de la Bruma]].
 
 ## Informacion confirmada
 
-- Su nombre conocido es Corona de la Perla Negra.
-- Aparece o se menciona en las sesiones listadas abajo.
+- Aparece en el bloque del templo explotado por [[Pisca]].
+- Está vinculada al [[Cayo de la Bruma]], al [[templo de Olhydra]] y posiblemente al [[culto de la Ola Aplastante]].
+- Su hallazgo ocurre en el mismo bloque en el que se recupera el [[Libro de Leto]].
 
-## Apariciones
+## Enlaces relevantes
+
+- [[templo de Olhydra]]
+- [[Cayo de la Bruma]]
+- [[Pisca]]
+- [[culto de la Ola Aplastante]]
+- [[Libro de Leto]]
+
+## Sesiones clave
 
 - [[S030 - Templo de Olhydra]]
 
-## Tramas asociadas
-
-## Hipotesis
-
 ## Dudas
 
-
-
+- Confirmar propiedades, poseedor actual y si tiene consecuencias pendientes.

@@ -61,6 +61,8 @@ Resumen breve de la sesion. ^summary
 
 ## Log de sesion
 
+## Notas rapidas durante partida
+
 ## Informacion obtenida
 
 ## NPCs presentes o mencionados

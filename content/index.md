@@ -18,6 +18,7 @@ Vault de campaña de D&D para seguir sesiones, tramas abiertas, personajes, luga
 - [[S038 - Mapaches, Ethel, Auronborax y Transmutación del alma]]: última sesión registrada.
 - [[Log de sesiones]]: listado completo de sesiones.
 - [[Timeline maestro]]: cronología curada de eventos importantes.
+- [[Preparacion de sesion en directo]]: flujo para usar el vault durante partida.
 
 ## Ahora mismo
 
@@ -87,3 +88,8 @@ El grupo está en el [[Acto 3 - Vuelta a Draconia]], a punto de entrar en la [[A
 - [[Acto 2 - Archenbridge]]
 - [[Acto 3 - Vuelta a Draconia]]
 
+## Mantenimiento del vault
+
+- [[Preparacion de sesion en directo]]
+- [[Protocolo de consolidacion de notas]]
+- [[Auditoría de simplificación del vault]]

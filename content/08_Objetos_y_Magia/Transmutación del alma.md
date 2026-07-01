@@ -1,11 +1,9 @@
-﻿---
+---
 tipo: magia
-estado:
+estado: "posible via futura"
 aliases:
-  -
+  - "Transmutacion del alma"
 primera_aparicion: "[[S038 - Mapaches, Ethel, Auronborax y Transmutación del alma]]"
-tramas:
-  - Trama - Firkraag
 tags:
   - magia
 ---
@@ -16,23 +14,28 @@ tags:
 
 Conjuro o procedimiento mencionado por [[Kharnar]] como posible vía para separar a [[Firkraag]] de [[Bram]].
 
-## Información confirmada
+## Informacion confirmada
 
-- [[Kharnar]] menciona la Transmutación del alma en [[S038 - Mapaches, Ethel, Auronborax y Transmutación del alma]].
-- Puede ser una alternativa para resolver el problema del alma de Firkraag encerrada en Bram.
-- La investigación futura apunta hacia [[Myth Drannor]].
-- Puede relacionarse temáticamente con la [[piedra de alma de la saga]], la manipulación de almas y la magia demoníaca vista en la [[Torre de Quamara]].
-- [[Kharnar]] conoce la existencia del conjuro o procedimiento, pero no tiene el conocimiento suficiente para ejecutarlo.
+- [[Alan Aldiz]] consulta a [[Kharnar]] sobre formas de separar a Firkraag de Bram.
+- Kharnar conoce la existencia de la Transmutación del alma, pero no tiene conocimiento suficiente para ejecutarla.
 - El conocimiento o pergamino necesario podría encontrarse en [[Myth Drannor]].
-- Actualmente está por encima de las capacidades del grupo; las fuentes brutas lo plantean como una vía para más adelante.
-- Es una alternativa al trato con [[Ethel]], al recurso a [[Vermithrax]] o al tomo del [[Demonomicon]].
+- Actualmente está por encima de las capacidades del grupo.
+- Es una alternativa al trato con [[Ethel]], a recurrir a [[Vermithrax]] o al tomo del [[Demonomicon]].
 
-## Apariciones
+## Enlaces relevantes
+
+- [[Bram]]
+- [[Firkraag]]
+- [[Kharnar]]
+- [[Alan Aldiz]]
+- [[Myth Drannor]]
+- [[Trama - Firkraag]]
+
+## Sesiones clave
 
 - [[S038 - Mapaches, Ethel, Auronborax y Transmutación del alma]]
 
 ## Dudas
 
-- Confirmar qué coste tendría el procedimiento.
-- Confirmar si separa el alma de [[Firkraag]] sin destruir a [[Bram]] ni liberar a Firkraag en una forma peligrosa.
-
+- Confirmar el coste del procedimiento.
+- Confirmar si separa el alma de Firkraag sin destruir a Bram ni liberar a Firkraag en una forma peligrosa.

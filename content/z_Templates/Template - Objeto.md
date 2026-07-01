@@ -1,19 +1,20 @@
 ---
 tipo: objeto
-estado:
+estado: "pendiente"
 poseedor_actual:
-aliases:
-  -
+aliases: []
 primera_aparicion:
-tramas:
-  -
 tags:
   - objeto
 ---
 
-# Nombre del objeto
+# {{VALUE:nombre}}
+
+TODO: ACTUALIZAR tras la sesion.
 
 ## Resumen
+
+## Contexto de aparicion
 
 ## Descripcion
 
@@ -23,8 +24,6 @@ tags:
 
 ## Poseedores
 
-## Apariciones
-
-## Tramas asociadas
+## Enlaces relevantes
 
 ## Dudas

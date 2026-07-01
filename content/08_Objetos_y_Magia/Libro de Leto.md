@@ -1,11 +1,8 @@
-﻿---
+---
 tipo: objeto
-estado:
-aliases:
-  -
-primera_aparicion:
-tramas:
-  -
+estado: "recuperado"
+aliases: []
+primera_aparicion: "[[S030 - Templo de Olhydra]]"
 tags:
   - objeto
 ---
@@ -14,21 +11,30 @@ tags:
 
 ## Resumen
 
-Nota inicial generada desde las apariciones en el log maestro. Pendiente de ampliar con las fuentes tematicas y revision manual.
+Libro que [[Leto]] pidió recuperar como condición para entregar información sobre los vampiros de [[Archenbridge]]. El grupo lo recupera durante el bloque del [[Cayo de la Bruma]].
 
 ## Informacion confirmada
 
-- Aparece o se menciona en las sesiones listadas abajo.
+- Leto contacta con los Batibles y ofrece información sobre vampiros a cambio de ayuda.
+- Su encargo incluye recuperar un libro y averiguar qué ocurrió con un mercenario contratado.
+- El libro aparece asociado al [[templo de Olhydra]] y al engaño de [[Pisca]] y [[Liliana]].
+- Tras recuperarlo, el grupo vuelve con Leto y recibe información clave sobre los vampiros.
 
-## Apariciones
+## Enlaces relevantes
 
+- [[Leto]]
+- [[Cayo de la Bruma]]
+- [[templo de Olhydra]]
+- [[Pisca]]
+- [[Liliana]]
+- [[Trama - Vampiros de Archenbridge]]
+
+## Sesiones clave
+
+- [[S027 - Descanso, nivel 6 y carta de Leto]]
 - [[S030 - Templo de Olhydra]]
-
-## Tramas asociadas
-
-## Hipotesis
+- [[S031 - Regreso con Leto e información sobre vampiros]]
 
 ## Dudas
 
-
-
+- Confirmar qué contenía exactamente el libro y por qué lo quería Leto.

@@ -1,15 +1,11 @@
 ---
 tipo: npc
-estado:
-aliases:
-  -
-facciones:
-  -
+estado: "pendiente"
+aliases: []
+facciones: []
 relacion_con_grupo:
 primera_aparicion:
 ultima_aparicion:
-tramas:
-  -
 tags:
   - npc
 ---
@@ -20,16 +16,14 @@ TODO: ACTUALIZAR tras la sesion.
 
 ## Resumen
 
+## Contexto de aparicion
+
 ## Estado actual
 
 ## Informacion confirmada
 
+## Relaciones y enlaces relevantes
+
 ## Hipotesis
-
-## Relaciones
-
-## Apariciones
-
-## Tramas asociadas
 
 ## Dudas

@@ -1,12 +1,8 @@
 ---
 tipo: faccion
-estado:
-aliases:
-  -
-miembros:
-  -
-tramas:
-  -
+estado: "pendiente"
+aliases: []
+miembros: []
 tags:
   - faccion
 ---
@@ -17,6 +13,8 @@ TODO: ACTUALIZAR tras la sesion.
 
 ## Resumen
 
+## Contexto de aparicion
+
 ## Objetivos conocidos
 
 ## Miembros conocidos
@@ -25,8 +23,6 @@ TODO: ACTUALIZAR tras la sesion.
 
 ## Enemigos
 
-## Apariciones
-
-## Tramas asociadas
+## Enlaces relevantes
 
 ## Dudas

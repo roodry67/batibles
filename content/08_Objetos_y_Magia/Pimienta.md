@@ -1,11 +1,8 @@
-﻿---
-tipo: objeto
-estado:
-aliases:
-  -
-primera_aparicion:
-tramas:
-  -
+---
+tipo: montura
+estado: "comprado"
+aliases: []
+primera_aparicion: "[[S033 - Carta de Endrek y compra de caballos]]"
 tags:
   - objeto
 ---
@@ -14,20 +11,20 @@ tags:
 
 ## Resumen
 
-Nota inicial generada desde las apariciones en el log maestro. Pendiente de ampliar con las fuentes tematicas y revision manual.
+Caballo blanco comprado durante el viaje motivado por la carta de [[Endrek]].
 
 ## Informacion confirmada
 
-- Aparece o se menciona en las sesiones listadas abajo.
+- Se compra o registra junto a [[Cardamomo]].
+- Aparece en el contexto del desplazamiento hacia la [[Torre de Quamara]] para rescatar a los padres de [[Lasarferis]].
 
-## Apariciones
+## Enlaces relevantes
 
+- [[Cardamomo]]
+- [[Lasarferis]]
+- [[Endrek]]
 - [[S033 - Carta de Endrek y compra de caballos]]
-
-## Tramas asociadas
-
-## Hipotesis
 
 ## Dudas
 
-
+- Confirmar quién lo monta o si sigue con el grupo.
