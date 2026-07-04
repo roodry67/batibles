@@ -19,8 +19,8 @@ views:
     maxZoom: 2
     defaultZoom: -0.5
     zoomDelta: 1
-    scale: 1.304
-    unit: kilometers
+    scale: 0.02
+    unit: dias
 
 ```
 [[[]()]]
