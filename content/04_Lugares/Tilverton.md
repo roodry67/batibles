@@ -1,6 +1,6 @@
 ---
 tipo: lugar
-estado: "activo"
+estado: activo
 aliases: []
 primera_aparicion: "[[S001 - Incorporación en Tilverton]]"
 tags:

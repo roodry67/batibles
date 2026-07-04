@@ -261,7 +261,7 @@ plugins:
   - source: github:Requiae/quartz-leaflet-bases-plugin
     enabled: true
     options:
-      enableCopyTool: false
+      enableCopyTool: true
   - source:
       name: quartz-themes
       repo: github:saberzero1/quartz-themes
