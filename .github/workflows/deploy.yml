@@ -42,8 +42,6 @@ jobs:
         run: npm ci
       - name: Install Quartz plugins
         run: npx quartz plugin install
-      - name: Patch Leaflet compatibility
-        run: node scripts/patch-leaflet-quartz.mjs
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact
