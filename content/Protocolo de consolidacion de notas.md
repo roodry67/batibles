@@ -1,5 +1,7 @@
 ---
 tipo: protocolo
+icon: LiClipboardCheck
+iconColor: "#64748b"
 estado: activo
 tags:
   - protocolo

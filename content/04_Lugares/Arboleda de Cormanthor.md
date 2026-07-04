@@ -1,5 +1,7 @@
 ---
 tipo: lugar
+icon: LiTrees
+iconColor: "#166534"
 subtipo_lugar: bosque
 estado: activa / dividida
 aliases:

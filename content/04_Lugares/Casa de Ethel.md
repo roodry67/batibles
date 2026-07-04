@@ -1,5 +1,7 @@
 ---
 tipo: lugar
+icon: LiHouse
+iconColor: "#7c3aed"
 subtipo_lugar: casa
 estado: "activo"
 aliases: []

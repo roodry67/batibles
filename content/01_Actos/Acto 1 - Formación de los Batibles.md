@@ -1,5 +1,7 @@
 ---
 tipo: acto
+icon: LiMilestone
+iconColor: "#9333ea"
 estado: cerrado
 sesiones: S001-S007
 tags:

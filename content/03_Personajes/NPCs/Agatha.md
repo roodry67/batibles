@@ -1,5 +1,7 @@
 ---
 tipo: npc
+icon: LiUserRound
+iconColor: "#7c3aed"
 estado: desconocido
 aliases:
   - "saga de Archwood"

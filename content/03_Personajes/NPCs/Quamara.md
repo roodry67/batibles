@@ -1,5 +1,7 @@
 ---
 tipo: npc
+icon: LiUserRound
+iconColor: "#7c3aed"
 estado: muerta
 aliases:
   - "bruja de la torre"

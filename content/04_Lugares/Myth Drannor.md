@@ -1,5 +1,7 @@
 ---
 tipo: lugar
+icon: LiSparkles
+iconColor: "#0f766e"
 subtipo_lugar: ciudad-en-ruinas
 estado: "posible destino"
 aliases: []

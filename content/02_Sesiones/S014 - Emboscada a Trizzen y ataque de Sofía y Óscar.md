@@ -1,5 +1,7 @@
 ---
 tipo: sesion
+icon: LiLogs
+iconColor: "#0f766e"
 sesion: 14
 fecha_real: 2024-11-10
 fecha_ingame_inicio: "23/03-25/03"

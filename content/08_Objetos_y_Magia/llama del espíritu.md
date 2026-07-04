@@ -1,5 +1,7 @@
 ---
 tipo: objeto
+icon: LiGem
+iconColor: "#0891b2"
 estado: "pista suelta"
 aliases:
   - "llama del espiritu"

@@ -1,5 +1,7 @@
 ---
 tipo: npc
+icon: LiUserRound
+iconColor: "#7c3aed"
 estado: desaparecido
 primera_aparicion: "[[S012 - Cartas, Daron y Orosul]]"
 tags:

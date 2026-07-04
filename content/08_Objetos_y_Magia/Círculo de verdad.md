@@ -1,5 +1,7 @@
 ---
 tipo: magia
+icon: LiSparkles
+iconColor: "#7c3aed"
 estado: "usado"
 aliases:
   - "Circulo de verdad"

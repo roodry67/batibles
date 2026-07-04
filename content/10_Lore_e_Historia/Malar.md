@@ -1,5 +1,7 @@
 ---
 tipo: lore
+icon: LiBookOpen
+iconColor: "#ca8a04"
 estado:
 aliases:
   -

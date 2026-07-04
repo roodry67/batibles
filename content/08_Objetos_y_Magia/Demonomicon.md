@@ -1,5 +1,7 @@
 ---
 tipo: objeto
+icon: LiGem
+iconColor: "#0891b2"
 estado: en manos de Walter Elias
 aliases:
   - "tomo del Demonomicon"

@@ -1,5 +1,7 @@
 ---
 tipo: objeto
+icon: LiGem
+iconColor: "#0891b2"
 estado: "usada"
 aliases: []
 primera_aparicion: "[[S025 - Bastian, baliza y ataque de Draconia]]"

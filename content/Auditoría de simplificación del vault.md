@@ -1,5 +1,7 @@
 ---
 tipo: auditoria
+icon: LiSearchCheck
+iconColor: "#64748b"
 estado: abierta
 tags:
   - auditoria

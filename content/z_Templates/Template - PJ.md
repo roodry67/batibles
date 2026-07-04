@@ -1,5 +1,7 @@
 ---
 tipo: pj
+icon: LiUserRoundCheck
+iconColor: "#2563eb"
 jugador:
 estado: activo
 clase:

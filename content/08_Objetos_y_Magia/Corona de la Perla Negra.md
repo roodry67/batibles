@@ -1,5 +1,7 @@
 ---
 tipo: objeto
+icon: LiGem
+iconColor: "#0891b2"
 estado: "recuperada"
 aliases: []
 primera_aparicion: "[[S030 - Templo de Olhydra]]"

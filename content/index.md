@@ -1,6 +1,8 @@
 ---
 title: Batibles
 tipo: portada
+icon: LiHome
+iconColor: "#2563eb"
 tags:
   - indice
   - portada

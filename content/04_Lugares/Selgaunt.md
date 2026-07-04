@@ -1,5 +1,7 @@
 ---
 tipo: lugar
+icon: LiLandmark
+iconColor: "#b33a3a"
 subtipo_lugar: ciudad
 estado: "confirmado"
 aliases: []

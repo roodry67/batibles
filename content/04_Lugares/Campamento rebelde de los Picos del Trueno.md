@@ -1,5 +1,7 @@
 ---
 tipo: lugar
+icon: LiTentTree
+iconColor: "#4d7c0f"
 subtipo_lugar: campamento
 estado: desarticulado
 aliases:

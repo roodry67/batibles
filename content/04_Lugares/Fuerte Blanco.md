@@ -1,5 +1,7 @@
 ---
 tipo: lugar
+icon: LiCastle
+iconColor: "#475569"
 subtipo_lugar: fortaleza
 estado: "referencia"
 aliases:

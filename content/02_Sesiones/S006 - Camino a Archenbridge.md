@@ -1,5 +1,7 @@
 ---
 tipo: sesion
+icon: LiLogs
+iconColor: "#0f766e"
 sesion: 6
 fecha_real: 2024-03-02
 fecha_ingame_inicio: "03/03, con viaje hasta 07/03 aproximadamente"

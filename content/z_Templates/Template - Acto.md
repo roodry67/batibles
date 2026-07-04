@@ -1,5 +1,7 @@
 ---
 tipo: acto
+icon: LiMilestone
+iconColor: "#9333ea"
 estado:
 fecha_ingame_inicio:
 fecha_ingame_fin:

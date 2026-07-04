@@ -1,5 +1,7 @@
 ---
 tipo: magia
+icon: LiSparkles
+iconColor: "#7c3aed"
 estado: "recurso activo"
 aliases: []
 primera_aparicion: "[[S004 - Salida del templo y Escudo de Plata]]"

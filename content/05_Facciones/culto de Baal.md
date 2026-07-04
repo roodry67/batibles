@@ -1,5 +1,7 @@
 ---
 tipo: faccion
+icon: LiFlag
+iconColor: "#dc2626"
 estado: referencia
 aliases:
   - "culto de Baal"

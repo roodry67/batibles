@@ -1,5 +1,7 @@
 ---
 tipo: open_loops
+icon: LiCircleHelp
+iconColor: "#d97706"
 estado: abierta
 tags:
   - pistas

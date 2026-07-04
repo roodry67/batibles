@@ -1,5 +1,7 @@
 ---
 tipo: sesion
+icon: LiLogs
+iconColor: "#0f766e"
 sesion: 27
 fecha_real: 2025-08-17
 fecha_ingame_inicio: "salto hasta 26/04"

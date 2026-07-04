@@ -1,5 +1,7 @@
 ---
 tipo: magia
+icon: LiSparkles
+iconColor: "#7c3aed"
 estado: "posible via futura"
 aliases:
   - "Transmutacion del alma"

@@ -1,5 +1,7 @@
 ---
 tipo: sesion
+icon: LiLogs
+iconColor: "#0f766e"
 sesion: 31
 fecha_real: 2026-01-01
 fecha_ingame_inicio: "29/04"

@@ -1,5 +1,7 @@
 ---
 tipo: acto
+icon: LiMilestone
+iconColor: "#9333ea"
 estado: en curso
 sesiones: S033-
 tags:

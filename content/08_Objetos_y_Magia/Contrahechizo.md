@@ -1,5 +1,7 @@
 ---
 tipo: magia
+icon: LiSparkles
+iconColor: "#7c3aed"
 estado: "retenido por el grupo"
 aliases: []
 primera_aparicion: "[[S003 - Exploración del templo de Oghma]]"

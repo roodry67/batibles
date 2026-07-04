@@ -1,5 +1,7 @@
 ---
 tipo: objeto
+icon: LiGem
+iconColor: "#0891b2"
 estado: "recuperado"
 aliases: []
 primera_aparicion: "[[S003 - Exploración del templo de Oghma]]"

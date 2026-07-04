@@ -1,5 +1,7 @@
 ---
 tipo: agenda
+icon: LiCalendarDays
+iconColor: "#2563eb"
 estado: abierta
 tags:
   - agenda

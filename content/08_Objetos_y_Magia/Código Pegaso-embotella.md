@@ -1,5 +1,7 @@
 ---
 tipo: recurso
+icon: LiPackage
+iconColor: "#4d7c0f"
 estado: "activo"
 aliases:
   - "Codigo Pegaso-embotella"

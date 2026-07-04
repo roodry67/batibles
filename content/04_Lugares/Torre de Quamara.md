@@ -1,5 +1,7 @@
 ---
 tipo: lugar
+icon: LiTowerControl
+iconColor: "#6d28d9"
 subtipo_lugar: torre
 estado: demolida / ruinas
 aliases:

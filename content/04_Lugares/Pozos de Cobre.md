@@ -1,5 +1,7 @@
 ---
 tipo: lugar
+icon: RaCastleEmblem
+iconColor: "#475569"
 subtipo_lugar:
 estado: "confirmado"
 aliases: []

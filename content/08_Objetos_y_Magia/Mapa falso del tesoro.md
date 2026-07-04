@@ -1,5 +1,7 @@
 ---
 tipo: objeto
+icon: LiGem
+iconColor: "#0891b2"
 estado: "engaño descubierto"
 aliases: []
 primera_aparicion: "[[S029 - Cayo de la Bruma e investigación]]"

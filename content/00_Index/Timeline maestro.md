@@ -1,5 +1,7 @@
 ---
 tipo: indice
+icon: LiLayoutDashboard
+iconColor: "#64748b"
 tags:
   - indice
   - timeline

@@ -1,5 +1,7 @@
 ---
 tipo: trama
+icon: LiQuestionMarkGlyph
+iconColor: "#d97706"
 estado: abierta
 aliases:
   - "Sagas de los Valles"

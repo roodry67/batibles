@@ -1,5 +1,7 @@
 ---
 tipo: montura
+icon: LiHorse
+iconColor: "#92400e"
 estado: "comprado"
 aliases: []
 primera_aparicion: "[[S033 - Carta de Endrek y compra de caballos]]"

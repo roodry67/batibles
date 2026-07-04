@@ -1,5 +1,7 @@
 ---
 tipo: criatura
+icon: LiSkull
+iconColor: "#7f1d1d"
 estado: "pendiente"
 aliases: []
 primera_aparicion:
