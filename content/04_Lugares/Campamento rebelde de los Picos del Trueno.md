@@ -8,9 +8,9 @@ primera_aparicion: "[[S024 - Infiltración en el campamento rebelde]]"
 mapa_icono: lucide-map-pin
 mapa_color: "#64748b"
 marker:
-  - coordinates:
+  - coordinates: 169, 547
     mapName: mapa-campana-bases
-    icon: lucide-map-pin
+    icon: lucide-tent
     colour: "#64748b"
     minZoom: -0.5
 tags:

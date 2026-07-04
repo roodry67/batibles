@@ -10,8 +10,8 @@ mapa_color: "#64748b"
 marker:
   - coordinates: 234, 699
     mapName: mapa-campana-bases
-    icon: lucide-map-pin
-    colour: "#64748b"
+    icon: lucide-trees
+    colour: "#074121"
     minZoom: -0.5
 tags:
   - lugar

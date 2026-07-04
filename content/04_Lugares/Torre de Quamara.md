@@ -10,11 +10,11 @@ mapa_color: "#64748b"
 marker:
   - coordinates: 221, 695
     mapName: mapa-campana-bases
-    icon: lucide-map-pin
+    icon: lucide-skull
     colour: "#64748b"
     minZoom: -0.5
 tags:
-  - lugar
+  - lugar/dungeon
 ---
 
 # Torre de Quamara
