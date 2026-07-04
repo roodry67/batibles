@@ -1,9 +1,18 @@
 ---
 tipo: lugar
+subtipo_lugar:
 estado: desarticulado
 aliases:
   -
 primera_aparicion: "[[S024 - Infiltración en el campamento rebelde]]"
+mapa_icono: lucide-map-pin
+mapa_color: "#64748b"
+marker:
+  - coordinates:
+    mapName: mapa-campana-bases
+    icon: lucide-map-pin
+    colour: "#64748b"
+    minZoom: -0.5
 tags:
   - lugar
 ---

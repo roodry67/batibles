@@ -1,9 +1,18 @@
 ---
 tipo: lugar
+subtipo_lugar:
 estado: activo
 aliases:
   -
 primera_aparicion: "[[S036 - Llegada a Ashabenford y Leonora]]"
+mapa_icono: lucide-map-pin
+mapa_color: "#64748b"
+marker:
+  - coordinates: 434, 664
+    mapName: mapa-campana-bases
+    icon: lucide-map-pin
+    colour: "#64748b"
+    minZoom: -0.5
 tags:
   - lugar
 ---

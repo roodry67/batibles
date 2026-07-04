@@ -1,9 +1,18 @@
 ---
 tipo: lugar
+subtipo_lugar:
 estado: "referencia"
 aliases:
   - "Delfos"
 primera_aparicion: "[[S032 - Clérigo nigromante, Kazar y pacto con Tens]]"
+mapa_icono: lucide-map-pin
+mapa_color: "#64748b"
+marker:
+  - coordinates:
+    mapName: mapa-campana-bases
+    icon: lucide-map-pin
+    colour: "#64748b"
+    minZoom: -0.5
 tags:
   - lugar
 ---

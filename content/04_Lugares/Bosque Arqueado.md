@@ -1,9 +1,18 @@
 ---
 tipo: lugar
+subtipo_lugar:
 estado: "confirmado"
 aliases:
   - "Archwood"
 primera_aparicion: "[[S008 - Rumores del bosque y de la torre]]"
+mapa_icono: lucide-map-pin
+mapa_color: "#64748b"
+marker:
+  - coordinates: 234, 699
+    mapName: mapa-campana-bases
+    icon: lucide-map-pin
+    colour: "#64748b"
+    minZoom: -0.5
 tags:
   - lugar
 ---

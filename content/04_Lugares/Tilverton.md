@@ -1,8 +1,17 @@
 ---
 tipo: lugar
+subtipo_lugar:
 estado: activo
 aliases: []
 primera_aparicion: "[[S001 - Incorporación en Tilverton]]"
+mapa_icono: lucide-map-pin
+mapa_color: "#64748b"
+marker:
+  - coordinates: 300, 398
+    mapName: mapa-campana-bases
+    icon: lucide-map-house
+    colour: "#64748b"
+    minZoom: -0.5
 tags:
   - lugar
 ---

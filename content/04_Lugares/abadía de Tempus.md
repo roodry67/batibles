@@ -1,9 +1,18 @@
 ---
 tipo: lugar
+subtipo_lugar:
 estado: abandonada / ocupada por Leto
 aliases:
   - "abadia de Tempus"
 primera_aparicion: "[[S027 - Descanso, nivel 6 y carta de Leto]]"
+mapa_icono: lucide-map-pin
+mapa_color: "#64748b"
+marker:
+  - coordinates: 178, 694
+    mapName: mapa-campana-bases
+    icon: lucide-map-pin
+    colour: "#64748b"
+    minZoom: -0.5
 tags:
   - lugar
 ---

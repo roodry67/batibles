@@ -1,8 +1,17 @@
 ---
 tipo: lugar
+subtipo_lugar:
 estado: "referencia"
 aliases: []
 primera_aparicion: "[[S023 - Pozos de Cobre y Váriuk]]"
+mapa_icono: lucide-map-pin
+mapa_color: "#64748b"
+marker:
+  - coordinates:
+    mapName: mapa-campana-bases
+    icon: lucide-map-pin
+    colour: "#64748b"
+    minZoom: -0.5
 tags:
   - lugar
 ---
