@@ -1,20 +1,21 @@
 ---
 tipo: lugar
-subtipo_lugar:
+subtipo_lugar: campamento
 estado: desarticulado
 aliases:
   -
 primera_aparicion: "[[S024 - Infiltración en el campamento rebelde]]"
-mapa_icono: lucide-map-pin
-mapa_color: "#64748b"
+mapa_icono: lucide-tent-tree
+mapa_color: "#4d7c0f"
 marker:
   - coordinates: 169, 547
     mapName: mapa-campana-bases
-    icon: lucide-tent
-    colour: "#64748b"
+    icon: lucide-tent-tree
+    colour: "#4d7c0f"
     minZoom: -0.5
 tags:
   - lugar
+  - lugar/campamento
 ---
 
 # Campamento rebelde de los Picos del Trueno

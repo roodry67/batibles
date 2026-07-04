@@ -1,20 +1,21 @@
 ---
 tipo: lugar
-subtipo_lugar:
+subtipo_lugar: ciudad
 estado: activa
 aliases:
   -
 primera_aparicion: "[[S001 - Incorporación en Tilverton]]"
-mapa_icono: lucide-house
-mapa_color: "#64748b"
+mapa_icono: lucide-landmark
+mapa_color: "#b33a3a"
 marker:
   - coordinates: 253, 614
     mapName: mapa-campana-bases
-    icon: lucide-church
-    colour: "#1571f3"
+    icon: lucide-landmark
+    colour: "#b33a3a"
     minZoom: -0.5
 tags:
   - lugar
+  - lugar/ciudad
 ---
 
 # Altaluna

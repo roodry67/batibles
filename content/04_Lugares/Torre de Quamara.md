@@ -1,20 +1,22 @@
 ---
 tipo: lugar
-subtipo_lugar:
+subtipo_lugar: torre
 estado: demolida / ruinas
 aliases:
   - "torre de Quamara"
 primera_aparicion: "[[S008 - Rumores del bosque y de la torre]]"
-mapa_icono: lucide-map-pin
-mapa_color: "#64748b"
+mapa_icono: lucide-tower-control
+mapa_color: "#6d28d9"
 marker:
   - coordinates: 221, 695
     mapName: mapa-campana-bases
-    icon: lucide-skull
-    colour: "#64748b"
+    icon: lucide-tower-control
+    colour: "#6d28d9"
     minZoom: -0.5
 tags:
   - lugar/dungeon
+  - lugar
+  - lugar/torre
 ---
 
 # Torre de Quamara

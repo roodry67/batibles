@@ -1,19 +1,22 @@
 ---
 tipo: lugar
-subtipo_lugar:
+subtipo_lugar: ciudad-en-ruinas
 estado: "posible destino"
 aliases: []
 primera_aparicion: "[[S038 - Mapaches, Ethel, Auronborax y Transmutación del alma]]"
-mapa_icono: lucide-map-pin
-mapa_color: "#64748b"
+mapa_icono: lucide-sparkles
+mapa_color: "#0f766e"
 marker:
   - coordinates: 523, 702
     mapName: mapa-campana-bases
-    icon: lucide-map-pin
-    colour: "#64748b"
+    icon: lucide-sparkles
+    colour: "#0f766e"
     minZoom: -0.5
 tags:
   - lugar
+  - lugar/ciudad
+  - lugar/ruina
+  - lugar/elfico
 ---
 
 # Myth Drannor

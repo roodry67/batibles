@@ -1,20 +1,21 @@
 ---
 tipo: lugar
-subtipo_lugar:
+subtipo_lugar: bosque
 estado: "confirmado"
 aliases:
   - "Archwood"
 primera_aparicion: "[[S008 - Rumores del bosque y de la torre]]"
-mapa_icono: lucide-map-pin
-mapa_color: "#64748b"
+mapa_icono: lucide-trees
+mapa_color: "#166534"
 marker:
   - coordinates: 234, 699
     mapName: mapa-campana-bases
     icon: lucide-trees
-    colour: "#074121"
+    colour: "#166534"
     minZoom: -0.5
 tags:
   - lugar
+  - lugar/bosque
 ---
 
 # Bosque Arqueado

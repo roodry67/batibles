@@ -1,21 +1,22 @@
 ---
 tipo: lugar
-subtipo_lugar:
+subtipo_lugar: ciudad
 region: Valles
 estado: referencia
 aliases:
   -
 primera_aparicion:
-mapa_icono: lucide-map-pin
-mapa_color: "#64748b"
+mapa_icono: lucide-landmark
+mapa_color: "#b33a3a"
 marker:
   - coordinates: 334, 956
     mapName: mapa-campana-bases
-    icon: lucide-map-pin
-    colour: "#64748b"
+    icon: lucide-landmark
+    colour: "#b33a3a"
     minZoom: -0.5
 tags:
   - lugar
+  - lugar/ciudad
 ---
 
 # Scadale

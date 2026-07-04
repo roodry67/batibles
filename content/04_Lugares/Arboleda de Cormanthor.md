@@ -1,20 +1,21 @@
 ---
 tipo: lugar
-subtipo_lugar:
+subtipo_lugar: bosque
 estado: activa / dividida
 aliases:
   - "Arboleda de Lysara"
 primera_aparicion: "[[S038 - Mapaches, Ethel, Auronborax y Transmutación del alma]]"
-mapa_icono: lucide-map-pin
-mapa_color: "#64748b"
+mapa_icono: lucide-trees
+mapa_color: "#166534"
 marker:
   - coordinates: 553, 856
     mapName: mapa-campana-bases
-    icon: lucide-map-pin
-    colour: "#64748b"
+    icon: lucide-trees
+    colour: "#166534"
     minZoom: -0.5
 tags:
   - lugar
+  - lugar/bosque
 ---
 
 # Arboleda de Cormanthor

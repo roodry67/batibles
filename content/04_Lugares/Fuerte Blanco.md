@@ -1,20 +1,21 @@
 ---
 tipo: lugar
-subtipo_lugar:
+subtipo_lugar: fortaleza
 estado: "referencia"
 aliases:
   - "Puente Blanco"
 primera_aparicion: "[[S006 - Camino a Archenbridge]]"
-mapa_icono: lucide-map-pin
-mapa_color: "#64748b"
+mapa_icono: lucide-castle
+mapa_color: "#475569"
 marker:
   - coordinates: 229, 644
     mapName: mapa-campana-bases
-    icon: lucide-map-pin
-    colour: "#64748b"
+    icon: lucide-castle
+    colour: "#475569"
     minZoom: -0.5
 tags:
   - lugar
+  - lugar/fortaleza
 ---
 
 # Fuerte Blanco

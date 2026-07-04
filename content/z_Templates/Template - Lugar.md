@@ -26,9 +26,10 @@ TODO: ACTUALIZAR tras la sesion.
 Mapa:
 - No aparece en el mapa mientras coordinates este vacio.
 - Formato de coordinates: y, x
-- Tags recomendados: lugar/ciudad, lugar/pueblo, lugar/aldea, lugar/fortaleza, lugar/templo, lugar/dungeon, lugar/ruina, lugar/refugio, lugar/taberna, lugar/tienda, lugar/bosque, lugar/montana, lugar/region, lugar/isla, lugar/campamento, lugar/torre, lugar/cripta.
+- Tags recomendados: lugar/ciudad, lugar/pueblo, lugar/aldea, lugar/fortaleza, lugar/templo, lugar/dungeon, lugar/ruina, lugar/refugio, lugar/casa, lugar/taberna, lugar/tienda, lugar/bosque, lugar/montana, lugar/region, lugar/isla, lugar/campamento, lugar/torre, lugar/cripta, lugar/elfico.
 - Estilos sugeridos:
   ciudad -> lucide-landmark / "#b33a3a"
+  ciudad-en-ruinas -> lucide-sparkles / "#0f766e"
   pueblo -> lucide-house / "#c084fc"
   aldea -> lucide-home / "#a3a3a3"
   fortaleza -> lucide-castle / "#475569"
@@ -36,6 +37,7 @@ Mapa:
   dungeon -> lucide-skull / "#7f1d1d"
   ruina -> lucide-columns-3 / "#78716c"
   refugio -> lucide-tent / "#15803d"
+  casa -> lucide-house / "#7c3aed"
   taberna -> lucide-beer / "#b45309"
   tienda -> lucide-store / "#2563eb"
   bosque -> lucide-trees / "#166534"

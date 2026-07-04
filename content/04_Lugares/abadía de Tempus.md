@@ -1,20 +1,21 @@
 ---
 tipo: lugar
-subtipo_lugar:
+subtipo_lugar: templo
 estado: abandonada / ocupada por Leto
 aliases:
   - "abadia de Tempus"
 primera_aparicion: "[[S027 - Descanso, nivel 6 y carta de Leto]]"
-mapa_icono: lucide-map-pin
-mapa_color: "#64748b"
+mapa_icono: lucide-church
+mapa_color: "#d97706"
 marker:
   - coordinates: 178, 694
     mapName: mapa-campana-bases
-    icon: lucide-map-pin
-    colour: "#64748b"
+    icon: lucide-church
+    colour: "#d97706"
     minZoom: -0.5
 tags:
   - lugar
+  - lugar/templo
 ---
 
 # abadía de Tempus

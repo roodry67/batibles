@@ -1,19 +1,20 @@
 ---
 tipo: lugar
-subtipo_lugar:
+subtipo_lugar: casa
 estado: "activo"
 aliases: []
 primera_aparicion: "[[S038 - Mapaches, Ethel, Auronborax y Transmutación del alma]]"
-mapa_icono: lucide-map-pin
-mapa_color: "#64748b"
+mapa_icono: lucide-house
+mapa_color: "#7c3aed"
 marker:
   - coordinates: 483, 764
     mapName: mapa-campana-bases
-    icon: lucide-map-pin
-    colour: "#64748b"
+    icon: lucide-house
+    colour: "#7c3aed"
     minZoom: -0.5
 tags:
   - lugar
+  - lugar/casa
 ---
 
 # Casa de Ethel
