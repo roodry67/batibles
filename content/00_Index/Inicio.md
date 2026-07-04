@@ -9,6 +9,7 @@ tags:
 ## Acceso rapido
 
 - [[Timeline maestro]]
+- [[Mapa de la campaña]]
 - [[Estado actual de la campaña]]
 - [[Pistas y preguntas]]
 - [[Agenda actual]]
@@ -31,5 +32,4 @@ tags:
 - [[Trama - Profecía del dragón blanco y el dragón rojo]]
 - [[Transmutación del alma]]
 - [[Ashabenford]]
-
 
