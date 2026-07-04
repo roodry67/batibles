@@ -31,7 +31,7 @@ Muerto. Murió durante la emboscada preparada por los Batibles tras el aviso de 
 - Sus acompañantes murieron durante el combate.
 - Antes de que los Batibles pudieran interrogarlo, aparecieron [[Sofía]] y [[Óscar]].
 - Sofía y Óscar mataron a Trizzen e impidieron que el grupo obtuviera información directa.
-- Durante la infiltración en la torre, [[Figarus]] fue disfrazado de Trizzen y [[Alan Aldiz]] como explorador acompañante.
+- Durante la infiltración en la torre, [[Figarus]] fue disfrazado de Trizzen y [[Alan]] como explorador acompañante.
 
 ## Consecuencias
 
@@ -45,7 +45,7 @@ Muerto. Murió durante la emboscada preparada por los Batibles tras el aviso de 
 - [[Walter Elias]]: informó al grupo de sus movimientos.
 - [[Sofía]] y [[Óscar]]: lo mataron antes del interrogatorio.
 - [[Figarus]]: se disfrazó de Trizzen para infiltrarse en la torre.
-- [[Alan Aldiz]]: se disfrazó de acompañante de Trizzen durante la infiltración.
+- [[Alan]]: se disfrazó de acompañante de Trizzen durante la infiltración.
 
 ## Dudas
 

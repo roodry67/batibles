@@ -22,7 +22,7 @@ Trama actualizada a partir del material disponible en el vault organizado. Esta 
 - [[S012 - Cartas, Daron y Orosul]]: Bloque relacionado con el [[Deck of Many Things]], la sentencia de muerte de [[Daron]], nueva información sobre [[Orosul]] y mención de [[Brevo]].
 - [[S012 - Cartas, Daron y Orosul]]: - Aparece información sobre [[Orosul]].
 - [[S012 - Cartas, Daron y Orosul]]: - [[Orosul]] sigue como línea abierta.
-- [[S012 - Cartas, Daron y Orosul]]: [[Alan Aldiz]], [[Daron]], [[Orosul]], [[Brevo]], [[Malazuth]], [[Variuk]].
+- [[S012 - Cartas, Daron y Orosul]]: [[Alan]], [[Daron]], [[Orosul]], [[Brevo]], [[Malazuth]], [[Variuk]].
 - [[S012 - Cartas, Daron y Orosul]]: [[Daron]], [[Trama - Orosul]], [[Trama - Arasyl en Cormanthor]].
 - [[S019 - Balance de rescatados, Peitan y Orosul]]: # S019 - Balance de rescatados, Peitan y Orosul
 - [[S019 - Balance de rescatados, Peitan y Orosul]]: Se contabilizan los rescatados de la torre y se obtiene nueva información sobre [[Peitan]], [[Neera Kumar]] y [[Orosul]].
@@ -47,7 +47,7 @@ Trama actualizada a partir del material disponible en el vault organizado. Esta 
 - [[Orosul]]: - [[S019 - Balance de rescatados, Peitan y Orosul]]
 - [[Peitan]]: - [[S019 - Balance de rescatados, Peitan y Orosul]]
 - [[Variuk]]: - [[S012 - Cartas, Daron y Orosul]]
-- [[Alan Aldiz]]: - [[S012 - Cartas, Daron y Orosul]]
+- [[Alan]]: - [[S012 - Cartas, Daron y Orosul]]
 - [[Archenbridge]]: - [[S012 - Cartas, Daron y Orosul]]
 - [[Archenbridge]]: - [[S019 - Balance de rescatados, Peitan y Orosul]]
 - [[Cormanthor]]: - [[S012 - Cartas, Daron y Orosul]]
@@ -61,7 +61,7 @@ Trama actualizada a partir del material disponible en el vault organizado. Esta 
 
 ## Entidades relacionadas
 
-- [[Alan Aldiz]]
+- [[Alan]]
 - [[Alberic]]
 - [[Arpistas]]
 - [[Bastian]]

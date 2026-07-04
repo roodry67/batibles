@@ -29,7 +29,7 @@ tags:
 ![[S004 - Salida del templo y Escudo de Plata#^summary]]
 
 ## Resumen
-[[Alan Aldiz]] recibe de [[Kharnar]] un [[Deck of Many Things]]. Una carta genera a [[Arasyl]], doble moralmente opuesto de [[Lysara]]. ^summary
+[[Alan]] recibe de [[Kharnar]] un [[Deck of Many Things]]. Una carta genera a [[Arasyl]], doble moralmente opuesto de [[Lysara]]. ^summary
 
 ## Log de sesion
 - [[Kharnar]], patrón de Alan, entra en escena a través del [[Deck of Many Things]].  
@@ -45,7 +45,7 @@ tags:
 - La brújula apunta hacia ella y acabará llevando al grupo hacia [[Cormanthor]].
 
 ## NPCs presentes o mencionados
-[[Alan Aldiz]], [[Kharnar]], [[Lysara]], [[Arasyl]], [[Daron]].  
+[[Alan]], [[Kharnar]], [[Lysara]], [[Arasyl]], [[Daron]].  
 ## Objetos, pistas y recursos
 [[Deck of Many Things]], [[Brújula de Arasyl]].  
 ## Tramas avanzadas

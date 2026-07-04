@@ -12,7 +12,7 @@ tags:
 
 ## Resumen
 
-Arasyl es una versión moralmente opuesta de [[Lysara]], creada por una carta del [[Deck of Many Things]] que [[Kharnar]] entregó a [[Alan Aldiz]]. Actualmente está en la [[Arboleda de Cormanthor]], donde parte de los druidas la aceptan como si fuera la verdadera Lysara.
+Arasyl es una versión moralmente opuesta de [[Lysara]], creada por una carta del [[Deck of Many Things]] que [[Kharnar]] entregó a [[Alan]]. Actualmente está en la [[Arboleda de Cormanthor]], donde parte de los druidas la aceptan como si fuera la verdadera Lysara.
 
 ## Información confirmada
 
@@ -36,7 +36,7 @@ Arasyl es una versión moralmente opuesta de [[Lysara]], creada por una carta de
 ## Relaciones
 
 - [[Lysara]]: original de la que Arasyl es reflejo moralmente opuesto.
-- [[Alan Aldiz]]: la creación de Arasyl deriva de una carta que Alan hizo recaer sobre Lysara.
+- [[Alan]]: la creación de Arasyl deriva de una carta que Alan hizo recaer sobre Lysara.
 - [[Kharnar]]: entregó el Deck y luego la [[Brújula de Arasyl]].
 - [[Brevo]]: la apoya dentro de la arboleda.
 - [[Druida bananero]]: fuente externa sobre la situación política de la arboleda.

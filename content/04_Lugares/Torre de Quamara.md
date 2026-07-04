@@ -56,7 +56,7 @@ La amenaza de Quamara quedó neutralizada tras el asalto de los Batibles. Más a
 ## Eventos ocurridos aquí
 
 - Los Batibles reunieron información sobre la torre gracias a [[Walter Elias]].
-- El grupo se infiltró usando disfraces: [[Figarus]] como [[Trizzen]] y [[Alan Aldiz]] como explorador acompañante.
+- El grupo se infiltró usando disfraces: [[Figarus]] como [[Trizzen]] y [[Alan]] como explorador acompañante.
 - Los Batibles derrotaron a los draegloth, sabotearon el mecanismo del troll y mataron a [[Quamara]].
 - [[Drakesh]] remató a Quamara.
 - El tomo del [[Demonomicon]] pasó a manos de [[Walter Elias]].

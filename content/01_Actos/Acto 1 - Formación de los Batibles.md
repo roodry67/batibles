@@ -29,7 +29,7 @@ El acto termina con la llegada a [[Archenbridge]], donde el grupo descubre que l
 - Los Batibles se reúnen en [[Tilverton]] y reciben el encargo de [[Daron]].
 - El grupo entra en el [[templo de Oghma]] y recupera material arcano.
 - Aparecen cadáveres mutilados con señales del [[culto de Baal|culto de Baal]].
-- [[Alan Aldiz]] recibe el [[Deck of Many Things]] de [[Kharnar]].
+- [[Alan]] recibe el [[Deck of Many Things]] de [[Kharnar]].
 - Una carta crea a [[Arasyl]].
 - El grupo llega a [[Archenbridge]].
 

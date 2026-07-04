@@ -33,7 +33,7 @@ Los Batibles se infiltran en el campamento rebelde y descubren presencia de rest
 ## Log de sesion
 - El grupo avanza hacia el campamento rebelde.  
 - Consigue infiltrarse haciéndose pasar por rebeldes.  
-- [[Alan Aldiz]] entra disfrazado o con cautela, porque hay recompensa por él.  
+- [[Alan]] entra disfrazado o con cautela, porque hay recompensa por él.  
 - El grupo descubre presencia de restos de [[la Inquisición]].  
 - El campamento está protegido mágicamente y oculto en la montaña.  
 - Se prepara un interrogatorio para el día siguiente.
@@ -44,7 +44,7 @@ Los Batibles se infiltran en el campamento rebelde y descubren presencia de rest
 - La situación es mucho más peligrosa de lo previsto.
 
 ## NPCs presentes o mencionados
-[[Alan Aldiz]], rebeldes, inquisidores.  
+[[Alan]], rebeldes, inquisidores.  
 ## Lugares
 [[Campamento rebelde de los Picos del Trueno]].  
 ## Tramas avanzadas

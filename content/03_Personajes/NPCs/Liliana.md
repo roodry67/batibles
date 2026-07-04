@@ -12,13 +12,13 @@ tags:
 ![[Copia de liliana.png]]
 ## Resumen
 
-Liliana fue cómplice de [[Pisca]] en la trampa del falso mapa del tesoro del [[Cayo de la Bruma]]. Sedujo o engañó a [[Alan Aldiz]] y participó en el intento de capturar al grupo.
+Liliana fue cómplice de [[Pisca]] en la trampa del falso mapa del tesoro del [[Cayo de la Bruma]]. Sedujo o engañó a [[Alan]] y participó en el intento de capturar al grupo.
 
 ## Información confirmada
 
 - Aparece en el [[Cayo de la Bruma]].
 - Participa en el engaño del [[Mapa falso del tesoro]].
-- Seduce o engaña a [[Alan Aldiz]].
+- Seduce o engaña a [[Alan]].
 - Participa en la fiesta previa a la captura del grupo.
 - La comida está envenenada.
 - Participa en el intento de capturar al grupo.
@@ -27,7 +27,7 @@ Liliana fue cómplice de [[Pisca]] en la trampa del falso mapa del tesoro del [[
 ## Relaciones
 
 - [[Pisca]]: cómplice.
-- [[Alan Aldiz]]: víctima directa del engaño.
+- [[Alan]]: víctima directa del engaño.
 - [[Cayo de la Bruma]]: lugar asociado.
 
 ## Sesiones clave

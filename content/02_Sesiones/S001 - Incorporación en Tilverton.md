@@ -42,24 +42,24 @@ Inicio del bloque de incorporación de los personajes actuales. El grupo se sit�
 - El grupo está en [[Tilverton]], ciudad de origen de [[Lasarferis]].  
 - Se visita [[el Badulaque]], tienda de los padres de Lasarferis.  
 - Se menciona que el Badulaque ofrece un 20% de descuento.  
-- Se presenta a [[Daron]] como hermano de [[Alan Aldiz]].  
+- Se presenta a [[Daron]] como hermano de [[Alan]].  
 - Se presenta [[Izzy]], como maga nigromante, archimaga y prometida de Daron.  
 - Se menciona el [[Templo de Silvanus]] de Tilverton.  
 - Se apunta que en [[Altaluna]] hay un templo con información y pergaminos, más tarde identificado como [[templo de Oghma]].
 
 ## Informacion obtenida
 - [[Daron]] es señor de [[Tilverton]] junto con [[Izzy]] y consejero de [[Salyriam]].  
-- [[Daron]] es el hermano de [[Alan Aldiz]] 
+- [[Daron]] es el hermano de [[Alan]] 
 - [[Izzy]] es una nigromante. Archimaga de draconia.  
 - [[Daron]] encarga al grupo una misión diplomática hacia [[Archenbridge]] para tratar el asunto de los rebeldes de los [[Picos del Trueno]].  
 - El [[Templo de Silvanus]] tiene un evento pendiente marcado para el 1 de marzo.
 
 ## NPCs presentes o mencionados
-[[Daron]], [[Izzy]], [[Alan Aldiz]], [[Lasarferis]], padres de Lasarferis.  
+[[Daron]], [[Izzy]], [[Alan]], [[Lasarferis]], padres de Lasarferis.  
 ## Lugares
 [[Tilverton]], [[el Badulaque]], [[Templo de Silvanus]], [[Altaluna]], [[templo de Oghma]].  
 ## Tramas avanzadas
-[[Daron]] y [[Alan Aldiz]], [[templo de Oghma]], [[Trama - Inquisición]].  
+[[Daron]] y [[Alan]], [[templo de Oghma]], [[Trama - Inquisición]].  
 ## Dudas
 fecha in-game exacta de esta sesión.
 

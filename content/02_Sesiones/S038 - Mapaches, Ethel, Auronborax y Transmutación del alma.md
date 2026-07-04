@@ -37,7 +37,7 @@ tags:
 ![[S037 - Código anti-Arasyl#^summary]]
 
 ## Resumen
-[[Bram]] descubre que parece no poder hacer magia y sospecha que [[Firkraag]] lo está castigando. El grupo encuentra mapaches transformados que ayudan a un [[Auronborax]]; Bram y [[Lysara]] descubren que eran humanos malditos por [[Ethel]] tras intentar robar en su casa, y les prometen ayuda antes de partir hacia la [[Arboleda de Cormanthor]]. Al pasar cerca de la casa de Ethel, Bram intenta contactar con ella pese al rechazo del grupo; Ethel no está allí desde hace años, parece conocer a Lysara de niña y pide liberar a su hermana, encadenada bajo el agua en el [[templo de Oghma]]. [[Alan Aldiz]] consulta a [[Kharnar]], que propone buscar un pergamino de [[Transmutación del alma]] en [[Myth Drannor]] como posible solución para Bram, aunque queda muy por encima del nivel actual. Antes de entrar en la arboleda, el [[Druida bananero]] revela que [[Brevo]] apoya a [[Arasyl]] y que la arboleda está dividida: Animales y Clima apoyan a Arasyl, Luna está indeciso, y Vida y Tierra son más reticentes a los cambios recientes. ^summary
+[[Bram]] descubre que parece no poder hacer magia y sospecha que [[Firkraag]] lo está castigando. El grupo encuentra mapaches transformados que ayudan a un [[Auronborax]]; Bram y [[Lysara]] descubren que eran humanos malditos por [[Ethel]] tras intentar robar en su casa, y les prometen ayuda antes de partir hacia la [[Arboleda de Cormanthor]]. Al pasar cerca de la casa de Ethel, Bram intenta contactar con ella pese al rechazo del grupo; Ethel no está allí desde hace años, parece conocer a Lysara de niña y pide liberar a su hermana, encadenada bajo el agua en el [[templo de Oghma]]. [[Alan]] consulta a [[Kharnar]], que propone buscar un pergamino de [[Transmutación del alma]] en [[Myth Drannor]] como posible solución para Bram, aunque queda muy por encima del nivel actual. Antes de entrar en la arboleda, el [[Druida bananero]] revela que [[Brevo]] apoya a [[Arasyl]] y que la arboleda está dividida: Animales y Clima apoyan a Arasyl, Luna está indeciso, y Vida y Tierra son más reticentes a los cambios recientes. ^summary
 
 ## Log de sesion
 - El grupo encuentra mapaches transformados.  
@@ -53,7 +53,7 @@ tags:
 - La hermana de Ethel está encerrada bajo el agua en el [[templo de Oghma]].  
 - Bram no promete liberarla sin condiciones; promete ir a hablar con ella y negociar.  
 - El grupo, salvo Lysara y bram , se opone en general a hacer tratos con una saga.  
-- [[Alan Aldiz]] consulta a [[Kharnar]] por otra vía para separar a Firkraag de Bram.  
+- [[Alan]] consulta a [[Kharnar]] por otra vía para separar a Firkraag de Bram.  
 - Kharnar menciona el conjuro [[Transmutación del alma]].  
 - Kharnar conoce la existencia del conjuro, pero no tiene el conocimiento suficiente para ejecutarlo.  
 - El pergamino o conocimiento podría encontrarse en [[Myth Drannor]].  
@@ -85,7 +85,7 @@ tags:
 
 
 ## NPCs presentes o mencionados
-[[Bram]], [[Lysara]], [[Arasyl]], [[Ethel]], [[Hermana de Ethel]], [[Kharnar]], [[Alan Aldiz]], [[Brevo]], [[Vermithrax]], [[Druida bananero|Druida bananero]].  
+[[Bram]], [[Lysara]], [[Arasyl]], [[Ethel]], [[Hermana de Ethel]], [[Kharnar]], [[Alan]], [[Brevo]], [[Vermithrax]], [[Druida bananero|Druida bananero]].  
 ## Lugares
 [[Cormanthor]], [[Casa de Ethel]], [[Pozo de Ethel]], [[templo de Oghma]], [[Myth Drannor]], [[Arboleda de Cormanthor]].  
 ## Criaturas

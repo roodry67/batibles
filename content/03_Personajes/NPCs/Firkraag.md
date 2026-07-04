@@ -55,7 +55,7 @@ Objetivos o personas relevantes:
 - [[Leonora]]: hija de Firkraag, miembro de [[los Dragones]] y participante en su muerte. Firkraag quiere vengarse de ella.
 - [[Darvan]] y [[Cilethor]]: jefes de la guardia personal de Firkraag. Firkraag quiere que Bram averigüe por qué no estuvieron presentes cuando lo mataron.
 - [[Izzy]]: Firkraag sospecha que hizo algo nigromántico con su cuerpo tras su muerte, quizá provocando que su alma acabara ligada accidentalmente a Bram.
-- [[Daron]]: participó en su muerte, pero Bram lo ha declarado fuera del alcance por ser hermano de [[Alan Aldiz]].
+- [[Daron]]: participó en su muerte, pero Bram lo ha declarado fuera del alcance por ser hermano de [[Alan]].
 - [[Karnash]]: amigo de Bram y miembro de [[los Dragones]], también fuera del alcance por decisión de Bram.
 
 ## Posibles vías de separación

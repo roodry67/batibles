@@ -44,7 +44,7 @@ El grupo se infiltra en la torre con disfraces, sabotea el mecanismo del troll, 
 - El grupo entra disfrazado.  
 - [[Bram]] va invisible.  
 - [[Figarus]] va disfrazado de [[Trizzen]].  
-- [[Alan Aldiz]] va disfrazado de explorador acompañante de Trizzen.  
+- [[Alan]] va disfrazado de explorador acompañante de Trizzen.  
 - Los demás van como prisioneros.  
 - Engañan a los drows, entran y cierran la puerta.  
 - Bajan primero al sótano para impedir que Quamara libere al troll contra los niños.  
@@ -70,7 +70,7 @@ El grupo se infiltra en la torre con disfraces, sabotea el mecanismo del troll, 
 - [[Peitan]] es aprendiz de mago rojo.
 
 ## NPCs presentes o mencionados
-[[Quamara]], [[Walter Elias]], [[Trizzen]], [[Alberic]], [[Peitan]], [[Drakesh]], [[Figarus]], [[Bram]], [[Alan Aldiz]].  
+[[Quamara]], [[Walter Elias]], [[Trizzen]], [[Alberic]], [[Peitan]], [[Drakesh]], [[Figarus]], [[Bram]], [[Alan]].  
 ## Objetos, pistas y recursos
 [[Demonomicon|tomo del Demonomicon]], [[piedra de alma de la saga]], pegamento mágico.  
 ## Criaturas

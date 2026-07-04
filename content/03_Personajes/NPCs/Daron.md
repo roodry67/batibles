@@ -12,7 +12,7 @@ tags:
 
 ## Resumen
 
-Daron es hermano de [[Alan Aldiz]], señor de [[Tilverton]] junto con [[Izzy]], consejero de [[Salyriam]] y miembro de [[los Dragones]]. Ha actuado como patrón inicial de los Batibles, pero también está implicado en hechos oscuros del pasado: la ejecución de [[Liandrale Leblack]] y la muerte de [[Firkraag]].
+Daron es hermano de [[Alan]], señor de [[Tilverton]] junto con [[Izzy]], consejero de [[Salyriam]] y miembro de [[los Dragones]]. Ha actuado como patrón inicial de los Batibles, pero también está implicado en hechos oscuros del pasado: la ejecución de [[Liandrale Leblack]] y la muerte de [[Firkraag]].
 
 ## Información confirmada
 
@@ -25,7 +25,7 @@ Daron es hermano de [[Alan Aldiz]], señor de [[Tilverton]] junto con [[Izzy]], 
 - En su antiguo grupo, Daron participó supuestamente en la ejecución de [[Liandrale Leblack]], encargada por [[Ellendrale Leblack]] tras el robo de joyas familiares [[Leblack]].
 - En teoría mataron a Liandrale cortándole la cabeza, aunque existen rumores de que sigue viva.
 - Daron y su antiguo grupo participaron en la muerte de [[Firkraag]], antiguo señor de [[Ashabenford]].
-- [[Firkraag]] odia a Daron por ello, pero Bram lo ha declarado fuera del alcance de la venganza de Firkraag por ser hermano de [[Alan Aldiz]].
+- [[Firkraag]] odia a Daron por ello, pero Bram lo ha declarado fuera del alcance de la venganza de Firkraag por ser hermano de [[Alan]].
 
 ## Importancia actual
 
@@ -35,7 +35,7 @@ Daron es hermano de [[Alan Aldiz]], señor de [[Tilverton]] junto con [[Izzy]], 
 
 ## Relaciones
 
-- [[Alan Aldiz]]: hermano.
+- [[Alan]]: hermano.
 - [[Izzy]]: cogobernante o aliada en [[Tilverton]].
 - [[Salyriam]]: consejero y antiguo aliado.
 - [[los Dragones]]: miembro con ideal "Justicia".

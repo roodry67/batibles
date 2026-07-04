@@ -17,7 +17,7 @@ tags:
 
 ## Resumen
 
-Los Leblack son una familia noble antigua, vinculada a [[la Inquisición]], a [[Scadale]], a los [[vampiros de Archenbridge]] y a varias figuras que siguen pesando en la campaña. La grafía canónica del vault es "Leblack", sin espacio, aunque en las fuentes antiguas aparece como "Le Black".
+Los Leblack son una familia noble antigua, vinculada a [[la Inquisición]], a [[Scardale]], a los [[vampiros de Archenbridge]] y a varias figuras que siguen pesando en la campaña. La grafía canónica del vault es "Leblack", sin espacio, aunque en las fuentes antiguas aparece como "Le Black".
 
 La familia no funciona tanto como una trama independiente, sino como una red de relaciones: [[Liandrale Leblack]], [[Ellendrale Leblack]], [[Bastian]], [[Tens]], los vampiros de [[Archenbridge]] y restos de [[la Inquisición]] orbitan alrededor de su historia, su emblema o su legado.
 
@@ -29,7 +29,7 @@ Legado activo. No está claro qué miembros siguen vivos ni si la familia conser
 
 - La primera pista sobre la familia aparece en el [[templo de Oghma]], relacionada con [[Liandrale Leblack]] y [[Ellendrale Leblack]].
 - En ese momento, los Batibles entienden que los Leblack eran una familia noble aliada con [[la Inquisición]].
-- Durante los tiempos de [[la Inquisición]], la familia Leblack gobernaba [[Scadale]].
+- Durante los tiempos de [[la Inquisición]], la familia Leblack gobernaba [[Scardale]].
 - [[Liandrale Leblack]] era una vampiresa de la familia, abuela de [[Ellendrale Leblack]].
 - El nombre de Liandrale aparece en registros del [[templo de Oghma]], y ella fue educada allí.
 - El [[templo de Oghma]] entrenaba monjes; esto abre una posible conexión antigua entre [[Liandrale Leblack]] y [[Tens]], que es monje.
@@ -65,7 +65,7 @@ Legado activo. No está claro qué miembros siguen vivos ni si la familia conser
 ## Vínculos importantes
 
 - [[la Inquisición]]: los Leblack eran una familia noble aliada con ella.
-- [[Scadale]]: territorio gobernado por la familia durante los tiempos de [[la Inquisición]].
+- [[Scardale]]: territorio gobernado por la familia durante los tiempos de [[la Inquisición]].
 - [[vampiros de Archenbridge]]: Liandrale era vampiresa y varias figuras vampíricas portan emblemas Leblack.
 - [[Tens]]: actúa por justicia para [[Liandrale Leblack]] y puede haberla conocido por el [[templo de Oghma]].
 - [[Sofía]]: [[Tens]] la protege porque es importante para alguien que no es él; la reacción de Tens sugiere una conexión real con [[Bastian]].

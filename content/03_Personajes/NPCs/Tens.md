@@ -24,7 +24,7 @@ Figura vinculada a los [[vampiros de Archenbridge]] y a una idea de justicia rel
 - [[Bram]] se tiró un farol sobre [[Liandrale Leblack]] y Tens no confirmó que estuviera muerta; solo habló de la justicia que merecía.
 - Puede tener una conexión antigua con Liandrale a través del [[templo de Oghma]], donde ella fue educada y donde se entrenaban monjes.
 - Contrató al [[culto de Baal]], asociado a mutilaciones rituales con manos cortadas y mandíbulas arrancadas.
-- Habla de la [[isla de Delfos]] y los [[oráculos de la Inquisición]].
+- Habla de la [[Isla de Delfos]] y los [[oráculos de la Inquisición]].
 
 ## Relaciones
 

@@ -24,7 +24,7 @@ Posible destino futuro señalado por [[Kharnar]] para buscar un pergamino o cono
 
 ## Informacion confirmada
 
-- [[Alan Aldiz]] consulta a [[Kharnar]] sobre formas de separar a Firkraag de Bram.
+- [[Alan]] consulta a [[Kharnar]] sobre formas de separar a Firkraag de Bram.
 - Kharnar conoce la existencia del conjuro [[Transmutación del alma]], aunque no tiene suficiente conocimiento para ejecutarlo.
 - El pergamino o conocimiento podría encontrarse en Myth Drannor.
 - Esta opción está por encima de las capacidades actuales del grupo.
@@ -32,7 +32,7 @@ Posible destino futuro señalado por [[Kharnar]] para buscar un pergamino o cono
 ## Enlaces relevantes
 
 - [[Kharnar]]
-- [[Alan Aldiz]]
+- [[Alan]]
 - [[Bram]]
 - [[Firkraag]]
 - [[Transmutación del alma]]

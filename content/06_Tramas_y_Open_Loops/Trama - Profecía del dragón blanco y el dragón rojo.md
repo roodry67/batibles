@@ -16,7 +16,7 @@ Los [[oráculos de la Inquisición]] predijeron una catástrofe para los Valles 
 
 ## Información confirmada
 
-- [[Tens]] habló de la [[isla de Delfos]] y los [[oráculos de la Inquisición]].
+- [[Tens]] habló de la [[Isla de Delfos]] y los [[oráculos de la Inquisición]].
 - Existe una profecía sobre un dragón blanco y un dragón rojo cuyo choque causaría una catástrofe para los Valles.
 - [[Salyriam]] es el dragón blanco.
 - [[Firkraag]] es el dragón rojo.

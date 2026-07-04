@@ -12,7 +12,7 @@ tags:
 
 ## Resumen
 
-Kharnar es maestro o patrón de [[Alan Aldiz]] y fuente de información arcana. Entregó a Alan el [[Deck of Many Things]] y más tarde fue consultado sobre formas de separar a [[Firkraag]] de [[Bram]].
+Kharnar es maestro o patrón de [[Alan]] y fuente de información arcana. Entregó a Alan el [[Deck of Many Things]] y más tarde fue consultado sobre formas de separar a [[Firkraag]] de [[Bram]].
 
 ## Información confirmada
 
@@ -25,7 +25,7 @@ Kharnar es maestro o patrón de [[Alan Aldiz]] y fuente de información arcana. 
 
 ## Relaciones
 
-- [[Alan Aldiz]]: discípulo, protegido o vinculado.
+- [[Alan]]: discípulo, protegido o vinculado.
 - [[Arasyl]]: consecuencia indirecta del Deck entregado por Kharnar.
 - [[Bram]] / [[Firkraag]]: problema para el que aporta una posible vía.
 - [[Trama - Firkraag]]: trama conectada.

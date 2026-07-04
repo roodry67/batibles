@@ -73,7 +73,7 @@ El grupo entra en la cripta vampírica, interrumpe un ritual nigromántico, mata
 - El grupo lanza un farol sobre [[Bastian]].  
 - La reacción de Tens sugiere que existe una conexión real entre [[Sofía]] y [[Bastian]].  
 - Bastian ya había preguntado antes al grupo si conocían a Sofía.  
-- Tens habla de la [[isla de Delfos]] y los [[oráculos de la Inquisición]].  
+- Tens habla de la [[Isla de Delfos]] y los [[oráculos de la Inquisición]].  
 - Los oráculos predecían catástrofes.  
 - Hay una profecía sobre un dragón blanco y un dragón rojo cuyo choque causaría una catástrofe para los Valles.  
 - [[Salyriam]] es el dragón blanco.  
@@ -84,7 +84,7 @@ El grupo entra en la cripta vampírica, interrumpe un ritual nigromántico, mata
 ## NPCs presentes o mencionados
 [[Tens]], [[Sofía]], [[Óscar]], [[Kazar]], [[Clérigo de Kazar]], [[Bram]], [[Firkraag]], [[Salyriam]], [[Daron]], [[Bastian]], [[Liandrale Leblack]], [[Drakesh]].  
 ## Lugares
-[[Cripta de Archenbridge]], [[isla de Delfos]], [[Archenbridge]].  
+[[Cripta de Archenbridge]], [[Isla de Delfos]], [[Archenbridge]].  
 ## Objetos, pistas y recursos
 [[ungüento de eternidad]], [[Máscara blanca de Tiamat]].  
 ## Tramas avanzadas

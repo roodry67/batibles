@@ -18,7 +18,7 @@ Antiguo poder dominante en los Valles antes de la formación de [[Draconia]]. Pe
 ## Información confirmada
 
 - El [[templo de Oghma]] de [[Altaluna]] estaba sellado desde tiempos de la Inquisición.
-- Durante los tiempos de la Inquisición, la familia [[Leblack]] gobernaba [[Scadale]].
+- Durante los tiempos de la Inquisición, la familia [[Leblack]] gobernaba [[Scardale]].
 - Los rebeldes de los [[Picos del Trueno]] no eran solo disidentes políticos: estaban infiltrados o dirigidos por restos de la Inquisición.
 - El [[Campamento rebelde de los Picos del Trueno]] estaba oculto y protegido mágicamente.
 - [[Bastian]] ocupa un papel de gran importancia dentro de esos restos.

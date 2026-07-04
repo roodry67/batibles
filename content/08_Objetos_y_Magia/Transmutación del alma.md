@@ -16,7 +16,7 @@ Conjuro o procedimiento mencionado por [[Kharnar]] como posible vía para separa
 
 ## Informacion confirmada
 
-- [[Alan Aldiz]] consulta a [[Kharnar]] sobre formas de separar a Firkraag de Bram.
+- [[Alan]] consulta a [[Kharnar]] sobre formas de separar a Firkraag de Bram.
 - Kharnar conoce la existencia de la Transmutación del alma, pero no tiene conocimiento suficiente para ejecutarla.
 - El conocimiento o pergamino necesario podría encontrarse en [[Myth Drannor]].
 - Actualmente está por encima de las capacidades del grupo.
@@ -27,7 +27,7 @@ Conjuro o procedimiento mencionado por [[Kharnar]] como posible vía para separa
 - [[Bram]]
 - [[Firkraag]]
 - [[Kharnar]]
-- [[Alan Aldiz]]
+- [[Alan]]
 - [[Myth Drannor]]
 - [[Trama - Firkraag]]
 

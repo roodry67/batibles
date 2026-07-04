@@ -26,7 +26,7 @@ Grupo de agentes de élite de [[Draconia]]. Sus miembros parecen llevar capas lu
 
 | Miembro      | Ideal de la capa | Notas                                                                          |                       |
 | ------------ | ---------------- | ------------------------------------------------------------------------------ | --------------------- |
-| [[Daron]]    | Justicia         | Hermano de [[Alan Aldiz]], señor de [[Tilverton]] y consejero de [[Salyriam]]. |                       |
+| [[Daron]]    | Justicia         | Hermano de [[Alan]], señor de [[Tilverton]] y consejero de [[Salyriam]]. |                       |
 | [[Izzy]]     | Poder            | Nigromante asociada a Daron en Tilverton.                                      |                       |
 | [[Leonora]]  | Valor            | Hija de [[Firkraag]] y señora actual de [[Ashabenford]].                       |                       |
 | [[Malazuth]] | Desconocido      | Antiguo aventurero vinculado a [[Variuk]]                                      | Váriuk]] y [[Brevo]]. |

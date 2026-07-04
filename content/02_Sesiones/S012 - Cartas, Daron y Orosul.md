@@ -31,7 +31,7 @@ tags:
 Bloque relacionado con el [[Deck of Many Things]], la sentencia de muerte de [[Daron]], nueva información sobre [[Orosul]] y mención de [[Brevo]]. ^summary
 
 ## Log de sesion
-- El 14/03 in-game, [[Alan Aldiz]] saca una carta del [[Deck of Many Things]].  
+- El 14/03 in-game, [[Alan]] saca una carta del [[Deck of Many Things]].  
 - La carta provoca que el familiar más cercano de Alan muera en los próximos 20 días.  
 - [[Daron]] queda bajo sentencia de muerte mágica.  
 - El 16/03 quedan 15 días para la muerte de Daron.  
@@ -45,7 +45,7 @@ Bloque relacionado con el [[Deck of Many Things]], la sentencia de muerte de [[D
 - [[Brevo]] conecta la arboleda de Cormanthor con el pasado aventurero de Malazuth y Váriuk.
 
 ## NPCs presentes o mencionados
-[[Alan Aldiz]], [[Daron]], [[Orosul]], [[Brevo]], [[Malazuth]], [[Variuk|Váriuk]].  
+[[Alan]], [[Daron]], [[Orosul]], [[Brevo]], [[Malazuth]], [[Variuk|Váriuk]].  
 ## Objetos, pistas y recursos
 [[Deck of Many Things]].  
 ## Tramas avanzadas

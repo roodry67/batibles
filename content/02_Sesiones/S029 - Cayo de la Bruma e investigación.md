@@ -36,7 +36,7 @@ Llegada e investigación en el [[Cayo de la Bruma]]. El grupo entra en contacto 
 - Conoce a [[Liliana]].  
 - Pisca cuenta una historia sobre un mapa del tesoro compartido con el mercenario desaparecido.  
 - Propone al grupo usar el mapa a cambio de un reparto del tesoro.  
-- [[Liliana]] seduce o engaña a [[Alan Aldiz]].  
+- [[Liliana]] seduce o engaña a [[Alan]].  
 - Se organiza una fiesta antes de partir.  
 - La comida está envenenada.  
 - El grupo descubre que el mapa es una trampa.  
@@ -48,7 +48,7 @@ Llegada e investigación en el [[Cayo de la Bruma]]. El grupo entra en contacto 
 - Liliana y Pisca son enemigas huidas o activas.
 
 ## NPCs presentes o mencionados
-[[Pisca]], [[Liliana]], [[Alan Aldiz]], [[Buracos]].  
+[[Pisca]], [[Liliana]], [[Alan]], [[Buracos]].  
 ## Lugares
 [[Cayo de la Bruma]].  
 ## Objetos, pistas y recursos

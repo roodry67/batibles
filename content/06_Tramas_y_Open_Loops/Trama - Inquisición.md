@@ -38,7 +38,7 @@ Trama para seguir los restos activos de [[la Inquisición]], especialmente su in
 - Averiguar dónde están Bastian y Karasta.
 - Confirmar si quedan rebeldes o inquisidores activos en los [[Picos del Trueno]].
 - Investigar si [[Orosul]] conecta realmente con la Inquisición.
-- Cruzar esta línea con la información de [[Tens]] sobre la [[isla de Delfos]] y los oráculos.
+- Cruzar esta línea con la información de [[Tens]] sobre la [[Isla de Delfos]] y los oráculos.
 
 ## Sesiones clave
 

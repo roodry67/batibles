@@ -33,7 +33,7 @@ Se descubre un rasgo físico distintivo de [[Arasyl]] y [[Bram]] usa una carta p
 ## Log de sesion
 - Se descubre que [[Arasyl]] tiene dos pulgares derechos.  
 - En la mano izquierda tiene el pulgar colocado en el lado equivocado.  
-- El 22/03 vuelve [[Alan Aldiz|Alan]], tras entrenar con [[Kharnar]].  
+- El 22/03 vuelve [[Alan|Alan]], tras entrenar con [[Kharnar]].  
 - El 27/03 toca sacar la siguiente carta.  
 - [[Bram]] saca una carta que podía deshacer la carta anterior o curar una condición equivalente.  
 - Bram decide usarla para salvar a [[Daron]].  
@@ -45,13 +45,13 @@ Se descubre un rasgo físico distintivo de [[Arasyl]] y [[Bram]] usa una carta p
 - La relación Bram-Firkraag queda como tensión abierta.
 
 ## NPCs presentes o mencionados
-[[Arasyl]], [[Alan Aldiz|Alan]], [[Bram]], [[Daron]], [[Firkraag]].  
+[[Arasyl]], [[Alan|Alan]], [[Bram]], [[Daron]], [[Firkraag]].  
 ## Objetos, pistas y recursos
 [[Deck of Many Things]].  
 ## Tramas avanzadas
 [[Trama - Arasyl en Cormanthor]], [[Daron]], [[Trama - Firkraag]].  
 ## Dudas
-identidad de [[Alan Aldiz|Alan]] en esta sesión.
+identidad de [[Alan|Alan]] en esta sesión.
 
 ## Lugares
 

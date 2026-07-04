@@ -40,7 +40,7 @@ El grupo está en el [[Acto 3 - Vuelta a Draconia]], a punto de entrar en la [[A
 
 - [[Bram]] y [[Firkraag]]
 - [[Lysara]] y [[Arasyl]]
-- [[Alan Aldiz]] y [[Kharnar]]
+- [[Alan]] y [[Kharnar]]
 - [[Lasarferis]] y [[Endrek]]
 - [[Drakesh]] y [[Kazar]]
 - [[Daron]], [[Izzy]] y [[los Dragones]]
