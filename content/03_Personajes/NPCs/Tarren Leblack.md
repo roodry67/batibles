@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: npc
 estado: muerto
 aliases:

@@ -11,7 +11,7 @@ tags:
 ---
 
 # Leonora
-
+![[Leonora2.jpeg]]
 ## Resumen
 
 Leonora es hija de [[Firkraag]] y señora actual de [[Ashabenford]]. Forma parte de [[los Dragones]], la élite de [[Draconia]], y su capa lleva el ideal "Valor".

@@ -9,7 +9,7 @@ tags:
 ---
 
 # Zoltan Rocanegra
-
+![[Zoltan Rocanegra.webp]]
 ## Resumen
 
 Zoltan Rocanegra es amigo de [[Leto]] y capitán o figura principal de la [[Dama de Bronce]], barco usado por el grupo para viajar hacia el [[Cayo de la Bruma]].

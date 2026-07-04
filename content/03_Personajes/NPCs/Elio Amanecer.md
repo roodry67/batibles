@@ -9,7 +9,7 @@ tags:
 ---
 
 # Elio Amanecer
-
+![[Helio Amanecer.png]]
 ## Resumen
 
 Miembro de [[los Amanecer]] y hermano de [[Arthur Amanecer]]. Aparece en el bloque de [[Archenbridge]] y vuelve a mencionarse durante la incorporación de [[Drakesh]] y [[Liktan]].

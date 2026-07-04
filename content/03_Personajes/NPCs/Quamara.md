@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: npc
 estado: muerta
 aliases:
@@ -9,7 +9,7 @@ tags:
 ---
 
 # Quamara
-
+![[Quamara.jpg]]
 ## Resumen
 
 Quamara era una elfa lunar con escamas verdes, semidragona o fusionada con un dragón verde, vinculada a [[Myth Drannor]] y a la [[Torre de Quamara]]. Reconstruía una antigua torre élfica con la intención de restaurar la gloria de su estirpe o linaje.

@@ -9,7 +9,7 @@ tags:
 ---
 
 # Jacob
-
+![[Jacob.png]]
 ## Resumen
 
 Jacob es el hermano de [[Óscar]] y conocido de [[Lasarferis]]. Sirve como ancla civil de la tragedia de Óscar dentro de la trama de los [[vampiros de Archenbridge]].

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Corona de la Perla Negra
-
+![[Corona_de_la_perla_negra 1.png]]
 ## Resumen
 
 Objeto mágico relevante recuperado o descubierto durante la exploración del [[templo de Olhydra]] en el [[Cayo de la Bruma]].

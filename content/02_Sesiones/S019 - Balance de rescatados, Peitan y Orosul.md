@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: sesion
 sesion: 19
 fecha_real: 2025-03-22

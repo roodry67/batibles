@@ -9,7 +9,7 @@ tags:
 ---
 
 # Peitan
-
+![[Peitan, thayno.jpg]]
 ## Resumen
 
 Peitan es un aprendiz de mago rojo rescatado de la [[Torre de Quamara]]. Estaba en [[Archenbridge]] haciendo tareas de espionaje o asuntos propios de los [[Magos Rojos de Thay]].

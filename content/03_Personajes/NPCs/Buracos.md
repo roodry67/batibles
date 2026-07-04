@@ -9,7 +9,7 @@ tags:
 ---
 
 # Buracos
-
+![[burakos.jpg]]
 ## Resumen
 
 Buracos es un orco mercenario contratado por [[Leto]] y vinculado al bloque del [[Cayo de la Bruma]]. Su desaparición sirve como gancho para investigar a [[Pisca]] y [[Liliana]].

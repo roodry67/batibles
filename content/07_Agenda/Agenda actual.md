@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: agenda
 estado: abierta
 tags:

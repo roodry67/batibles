@@ -8,7 +8,7 @@ tags:
 ---
 
 # Dama de Bronce
-
+![[dama_de_bronce.png]]
 ## Resumen
 
 Barco de [[Zoltan Rocanegra]] usado por los Batibles para viajar hacia el [[Cayo de la Bruma]]. Su segunda al mando es [[Kara]].

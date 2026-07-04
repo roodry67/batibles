@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: acto
 estado: cerrado
 sesiones: S001-S007

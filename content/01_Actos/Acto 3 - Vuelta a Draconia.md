@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: acto
 estado: en curso
 sesiones: S033-

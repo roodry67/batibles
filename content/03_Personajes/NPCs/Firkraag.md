@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: npc
 estado: alma ligada a Bram
 aliases:
@@ -9,7 +9,7 @@ tags:
 ---
 
 # Firkraag
-
+![[Firkraag.jpg]]
 ## Resumen
 
 Firkraag es un dragón rojo, antiguo señor de [[Ashabenford]] y conocido como el Señor del Volcán. Antes y durante la guerra actuaba como una potencia propia, comparable en peso político a [[Salyriam]] o [[la Inquisición]], intentando aprovechar el conflicto para aumentar su poder.

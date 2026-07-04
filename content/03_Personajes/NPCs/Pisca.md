@@ -2,14 +2,14 @@
 tipo: npc
 estado: huidiza
 aliases:
-  -
+  - pisca brumazur
 primera_aparicion: "[[S029 - Cayo de la Bruma e investigación]]"
 tags:
   - npc
 ---
 
 # Pisca
-
+![[Copia de Pisca brumazur.jpg]]
 ## Resumen
 
 Pisca es la dueña de una taberna en el [[Cayo de la Bruma]] y una de las responsables del falso mapa del tesoro usado para capturar víctimas. Explotaba el [[templo de Olhydra]] mediante prisioneros obligados a excavar.

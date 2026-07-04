@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: sesion
 sesion: 4
 fecha_real: 2024-01-28

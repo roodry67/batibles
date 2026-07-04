@@ -2,15 +2,16 @@
 tipo: npc
 estado: activo
 aliases:
-  - "Endrec"
-  - "primo de Lasarferis"
+  - Endrec
+  - primo de Lasarferis
+  - endrek ishtar
 primera_aparicion: "[[S033 - Carta de Endrek y compra de caballos]]"
 tags:
   - npc
 ---
 
 # Endrek
-
+![[Endrek Ishtar.jpg]]
 ## Resumen
 
 Endrek es primo de [[Lasarferis]], miembro de los [[Zhentarim]] y probable brujo. Secuestró a los padres de Lasarferis para obligarla a entregarle sus poderes de hechicera y el [[Reloj de Lasarferis]].

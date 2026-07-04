@@ -9,7 +9,7 @@ tags:
 ---
 
 # Caballeros de la Niebla
-
+![[Caballero de la niebla.png|222]]
 ## Resumen
 
 Orden local de caballeros de [[Ashabenford]], conocidos como jinetes de pegaso y vinculados a la guardia de la ciudad.

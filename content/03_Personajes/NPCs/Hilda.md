@@ -9,7 +9,7 @@ tags:
 ---
 
 # Hilda
-
+![[Hilda.jpg]]
 ## Resumen
 
 Hilda es aprendiz de [[Leto]].

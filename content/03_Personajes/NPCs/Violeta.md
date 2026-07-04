@@ -9,7 +9,7 @@ tags:
 ---
 
 # Violeta
-
+![[Violeta Flass.jpg]]
 ## Resumen
 
 Violeta es una figura vinculada a [[Altaluna]], el [[templo de Oghma]] y los [[Magos Rojos de Thay]].

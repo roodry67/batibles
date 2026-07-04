@@ -9,7 +9,7 @@ tags:
 ---
 
 # Bastian
-
+![[Blade.jpeg]]
 ## Resumen
 
 Bastian, también conocido como Blade, es una figura de alto valor vinculada a los restos de [[la Inquisición]] y a la familia [[Leblack]]. Apareció en el campamento rebelde de los [[Picos del Trueno]] y escapó cuando [[Draconia]] atacó el lugar.

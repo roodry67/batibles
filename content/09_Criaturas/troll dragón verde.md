@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: criatura
 estado:
 aliases:

@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: sesion
 sesion: 17
 fecha_real: 2024-12-07

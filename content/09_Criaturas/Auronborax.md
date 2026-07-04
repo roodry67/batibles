@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: criatura
 estado:
 aliases:
@@ -11,6 +11,7 @@ tags:
 ---
 
 # Auronborax
+![[Aurumvorax.jpg|473]]
 
 ## Resumen
 

@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: criatura
 estado:
 aliases:
@@ -9,7 +9,7 @@ tags:
 ---
 
 # draegloth
-
+![[Draegloth.png]]
 ## Resumen
 
 Los draegloth aparecieron como criaturas al servicio o bajo el control de [[Quamara]] en la [[Torre de Quamara]]. Formaban parte de la defensa de la torre durante el asalto de los Batibles.

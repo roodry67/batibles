@@ -9,7 +9,7 @@ tags:
 ---
 
 # Kara
-
+![[Kara.jpeg]]
 ## Resumen
 
 Kara es la segunda al mando de la [[Dama de Bronce]], el barco de [[Zoltan Rocanegra]].

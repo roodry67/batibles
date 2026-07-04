@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: open_loops
 estado: abierta
 tags:

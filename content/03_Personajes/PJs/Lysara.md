@@ -9,7 +9,7 @@ tags:
 ---
 
 # Lysara
-
+![[lysara.png]]
 ## Resumen
 
 Lysara es una de los Batibles y está directamente conectada con [[Arasyl]], su doble moralmente opuesto creado por el [[Deck of Many Things]]. Su ruta actual pasa por la [[Arboleda de Cormanthor]] y la política interna de los círculos druídicos.

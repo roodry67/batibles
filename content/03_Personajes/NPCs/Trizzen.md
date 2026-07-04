@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: npc
 estado: muerto
 aliases:
@@ -11,7 +11,7 @@ tags:
 ---
 
 # Trizzen
-
+![[Quamara 1.jpg]]
 ## Resumen
 
 Trizzen era un drow, amante o aliado principal de [[Quamara]], y una de las figuras clave de la [[Torre de Quamara]]. Los Batibles intentaron capturarlo para obtener información antes del asalto, pero [[Sofía]] y [[Óscar]] lo mataron antes de que pudiera ser interrogado.

@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: npc
 estado: vivo
 aliases:
@@ -9,7 +9,7 @@ tags:
 ---
 
 # Alberic
-
+![[Alberic, arpista.bmp]]
 ## Resumen
 
 Alberic es un prisionero rescatado de la [[Torre de Quamara]] y vinculado a los [[Arpistas]]. Su presencia en la torre conecta el bloque de Quamara con posibles contactos o vías de información posteriores.

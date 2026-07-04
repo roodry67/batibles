@@ -11,7 +11,7 @@ tags:
 ---
 
 # Zaratos
-
+![[Zarathos_mapache.jpg]]
 ## Resumen
 
 Zaratos es el familiar de [[Leto]]. Cuando se cruza con los Batibles se presenta con el alias "Mr. Kapuchinsky".

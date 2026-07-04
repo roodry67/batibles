@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: sesion
 sesion: 2
 fecha_real: 2023-12-23

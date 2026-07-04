@@ -2,14 +2,14 @@
 tipo: npc
 estado: referencia
 aliases:
-  -
+  - simmon raedric
 primera_aparicion: "[[S036 - Llegada a Ashabenford y Leonora]]"
 tags:
   - npc
 ---
 
 # Lord Raedric
-
+![[Simmon Raedric.jpg]]
 ## Resumen
 
 Antiguo señor de [[Ashabenford]] antes de que [[Firkraag]] controlara la ciudad.

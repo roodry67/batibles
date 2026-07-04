@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: faccion
 estado:
 aliases:

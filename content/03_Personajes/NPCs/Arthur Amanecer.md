@@ -9,7 +9,7 @@ tags:
 ---
 
 # Arthur Amanecer
-
+![[Arthur Amanecer.jpg]]
 ## Resumen
 
 Miembro de [[los Amanecer]] y nuevo cabeza de la familia tras la muerte de su padre. En notas anteriores aparecía como "Arzu Amanecer"; la forma canónica corregida es Arthur Amanecer.

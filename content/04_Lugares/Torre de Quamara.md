@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: lugar
 estado: demolida / ruinas
 aliases:

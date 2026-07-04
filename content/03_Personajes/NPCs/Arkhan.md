@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: npc
 estado: muerto
 aliases:
@@ -9,7 +9,7 @@ tags:
 ---
 
 # Arkhan
-
+![[arkhan el negro2.jpeg]]
 ## Resumen
 
 Arkhan era un dracónido negro con armadura completa, extremadamente poderoso y vinculado a Tiamat. Los Batibles lo mataron como parte del primer trato con [[Walter Elias]], antes de abordar la [[Torre de Quamara]].

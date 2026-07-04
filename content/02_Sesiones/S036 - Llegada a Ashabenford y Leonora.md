@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: sesion
 sesion: 36
 fecha_real: 2026-05-30

@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: npc
 estado: desaparecido
 primera_aparicion: "[[S012 - Cartas, Daron y Orosul]]"

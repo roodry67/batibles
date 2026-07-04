@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: sesion
 sesion: 31
 fecha_real: 2026-01-01

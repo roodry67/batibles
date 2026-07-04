@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: objeto
 estado: usado
 aliases:

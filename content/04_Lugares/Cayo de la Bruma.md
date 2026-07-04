@@ -9,7 +9,7 @@ tags:
 ---
 
 # Cayo de la Bruma
-
+![[RUTA_comercial.png]]
 ## Resumen
 
 Isla o enclave del mini-arco cerrado de [[Leto]]. El grupo llega al cayo tras la carta de Leto y la ruta abierta desde [[Selgaunt]], investiga la desaparición de [[Buracos]] y descubre la trampa de [[Pisca]] y [[Liliana]] alrededor de un falso mapa del tesoro.

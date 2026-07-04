@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: npc
 estado: activo
 aliases:

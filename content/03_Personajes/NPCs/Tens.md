@@ -9,7 +9,7 @@ tags:
 ---
 
 # Tens
-
+![[Tens.jpg|365]]
 ## Resumen
 
 Figura vinculada a los [[vampiros de Archenbridge]] y a una idea de justicia relacionada con [[Liandrale Leblack]]. Es lo bastante poderoso como para que el grupo optase por pactar con él en lugar de resolver el conflicto por la fuerza.

@@ -9,7 +9,7 @@ tags:
 ---
 
 # Izzy
-
+![[Izzy.jpg]]
 ## Resumen
 
 Izzy es una nigromante vinculada a [[Draconia]] y a [[los Dragones]], asociada a [[Daron]] en el gobierno de [[Tilverton]].

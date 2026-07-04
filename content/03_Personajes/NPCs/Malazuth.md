@@ -9,7 +9,7 @@ tags:
 ---
 
 # Malazuth
-
+![[Malazuth Mask.jpg]]
 ## Resumen
 
 Malazuth forma parte de [[los Dragones]] y está vinculado a [[Draconia]]. Antes de su papel actual tuvo un pasado aventurero junto a [[Variuk|Váriuk]] y [[Brevo]].

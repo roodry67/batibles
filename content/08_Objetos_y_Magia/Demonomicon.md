@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: objeto
 estado: en manos de Walter Elias
 aliases:
