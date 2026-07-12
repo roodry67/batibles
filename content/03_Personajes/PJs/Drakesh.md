@@ -1,4 +1,4 @@
----
+﻿---
 tipo: pj
 icon: LiUserRoundCheck
 iconColor: "#2563eb"
@@ -22,10 +22,12 @@ Drakesh es uno de los Batibles. Está conectado con [[Talos]] y con la línea de
 - Es clérigo de [[Talos]].
 - En [[S016 - Infiltración y asalto a la torre de Quamara]], remata a [[Quamara]] a golpes en la cabeza durante el combate final.
 - [[Kazar]] está vinculado a su trasfondo.
+- En [[S039 - Entrada a la arboleda]], reconoce que el [[Guantelete de Talos]] que porta [[Arasyl]] es un objeto mágico importante para el culto de Talos, aunque no identifica sus poderes.
 
 ## Relaciones
 
 - [[Talos]]: deidad o poder religioso asociado.
+- [[Guantelete de Talos]]: objeto importante para el culto, identificado parcialmente por Drakesh.
 - [[Kazar]]: línea personal abierta.
 - [[Quamara]]: Drakesh la remata durante el asalto a la torre.
 - [[Trama - Kazar]]: trama activa conectada.
@@ -35,8 +37,10 @@ Drakesh es uno de los Batibles. Está conectado con [[Talos]] y con la línea de
 - [[S015 - Drakesh, Elio y Liktan]]
 - [[S016 - Infiltración y asalto a la torre de Quamara]]
 - [[S032 - Clérigo nigromante, Kazar y pacto con Tens]]
+- [[S039 - Entrada a la arboleda]]
 
 ## Dudas
 
 - Confirmar si la muerte de [[Quamara]] tuvo consecuencias personales, religiosas o narrativas para Drakesh.
 - Confirmar qué relación exacta tiene con [[Kazar]].
+- Confirmar qué sabe o puede investigar sobre el [[Guantelete de Talos]].

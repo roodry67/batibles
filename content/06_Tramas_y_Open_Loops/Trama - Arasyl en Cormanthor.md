@@ -1,4 +1,4 @@
----
+﻿---
 tipo: trama
 icon: LiQuestionMarkGlyph
 iconColor: "#d97706"
@@ -15,35 +15,42 @@ tags:
 
 ## Resumen
 
-[[Arasyl]] nació de una carta del [[Deck of Many Things]] como doble moralmente opuesto de [[Lysara]]. Ahora está en la [[Arboleda de Cormanthor]], donde parece haber sido aceptada por parte de los druidas como si fuera la verdadera Lysara.
+[[Arasyl]] nació de una carta del [[Deck of Many Things]] como doble moralmente opuesto de [[Lysara]]. Ahora está en la [[Arboleda de Cormanthor]], donde lidera el Círculo del Clima y cuenta con la protección de [[Brevo]], aunque los Batibles han revelado a Brevo que la verdadera Lysara es otra.
 
 ## Estado actual
 
-- El grupo está a las puertas de la [[Arboleda de Cormanthor]].
-- [[Brevo]], líder de la arboleda, apoya a [[Arasyl]].
-- El [[Druida bananero]] cree que la Lysara presente en la arboleda es la verdadera, pero se trata de Arasyl.
-- Arasyl puede identificarse por un rasgo físico: tiene dos pulgares derechos.
-- El grupo estableció el [[Código Pegaso-embotella]] para distinguir a Lysara de Arasyl.
+- El grupo ya ha entrado en la [[Arboleda de Cormanthor]].
+- [[Brevo]] cree a Lysara tras hablar con ella en privado, pero reprocha a los Batibles haber entrado mediante engaños.
+- Brevo protege a [[Arasyl]] y la reconoce como líder del Círculo del Clima.
+- Según Brevo, [[Malazuth]] vino hace unos dos meses para asesinar a Arasyl.
+- Arasyl niega malas intenciones y afirma que fue perseguida por un mago cuando apareció en el bosque.
+- Arasyl rechaza responder preguntas dentro de un [[Círculo de verdad]].
+- Arasyl acepta usar un nombre distinto.
+- Arasyl porta un [[Guantelete de Talos]] importante para el culto de [[Talos]].
+- [[Sombra]], el compañero animal de Lysara, empieza a seguir a Arasyl al final de [[S039 - Entrada a la arboleda]].
 
 ## Política de la arboleda
 
+- La arboleda tiene cinco círculos, cada uno con un sabio elegido democráticamente, además del archidruida.
+- [[Ada]] representa el Círculo de la Tierra.
+- [[Damecos]] representa el Círculo de los Animales.
 - Los círculos de la Vida y de la Tierra no están a favor de los cambios recientes.
 - El círculo de la Luna está neutral o indeciso.
 - Los círculos de los Animales y del Clima apoyan a [[Arasyl]] y el cambio.
-- Arasyl parece liderar el [[Arboleda de Cormanthor|Círculo del Clima]].
 
 ## Pistas relacionadas
 
 - [[Ashabenford]] necesita [[madera férrea]] y que los druidas vuelvan a ayudar con las cosechas.
 - Los problemas de clima/cosechas de Ashabenford parecen coincidir con la llegada de Arasyl a la arboleda.
-- [[Firkraag]] mencionó a [[Vermithrax]], dragón verde de Cormanthor aliado con [[Salyriam]], como posible último recurso.
+- El [[Guantelete de Talos]] puede conectar a Arasyl con Talos, el clima o una línea religiosa/mágica aún no entendida.
 
 ## Próximas acciones
 
-- Entrar en la [[Arboleda de Cormanthor]].
-- Averiguar qué está haciendo Arasyl y por qué Brevo la apoya.
-- Confirmar si los círculos opositores pueden ayudar al grupo.
-- Evitar que Arasyl suplante a [[Lysara]].
+- Resolver inmediatamente qué ocurre con [[Sombra]].
+- Averiguar qué nombre adoptará Arasyl.
+- Investigar el [[Guantelete de Talos]].
+- Negociar con [[Brevo]], [[Ada]], [[Damecos]] y los círculos sin partir de que la arboleda acepte la autoridad moral de los Batibles.
+- Resolver el suministro de [[madera férrea]] y la ayuda a [[Ashabenford]].
 
 ## Sesiones clave
 
@@ -52,9 +59,12 @@ tags:
 - [[S036 - Llegada a Ashabenford y Leonora]]
 - [[S037 - Código anti-Arasyl]]
 - [[S038 - Mapaches, Ethel, Auronborax y Transmutación del alma]]
+- [[S039 - Entrada a la arboleda]]
 
 ## Dudas
 
 - Confirmar cuál es el objetivo real de Arasyl dentro de la arboleda.
-- Confirmar si Brevo sabe que no está tratando con la Lysara original.
-- Confirmar cuánto tiempo lleva Arasyl activa en Cormanthor y qué cambios ha provocado ya.
+- Confirmar si Brevo sabe o acepta completamente que Arasyl no es la Lysara original.
+- Confirmar qué ocurrió realmente con [[Malazuth]].
+- Confirmar si Sombra está hechizada o si reconoce algo en Arasyl.
+- Confirmar el poder y origen del [[Guantelete de Talos]].

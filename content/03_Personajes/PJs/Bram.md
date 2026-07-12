@@ -11,7 +11,7 @@ tags:
 ---
 
 # Bram
-![[bram_firkraag.jpg]]
+![[bram_firkraag.jpg|610]]
 ## Resumen
 
 Bram está ligado a [[Firkraag]], dragón rojo muerto y antiguo señor de [[Ashabenford]]. Separarse de él es una de sus líneas personales principales y una de las tramas activas más importantes del vault.
@@ -59,7 +59,7 @@ Bram está ligado a [[Firkraag]], dragón rojo muerto y antiguo señor de [[Asha
 - Confirmar hasta qué punto Firkraag puede tomar control del cuerpo de Bram.
 - Confirmar si Bram seguirá cumpliendo el acuerdo de los cinco minutos diarios.
 ## Trasfondo
-![[saucehondo.png|398]]
+![[saucehondo.png|622]]
 Bram nació en Saucehondo, una pequeña y aislada aldea mediana situada cerca de Myth Drannor, en los lindes del Bosque de Cormanthor. Era el menor de tres hermanos e hijo de Eldon y Lila, dos vecinos muy respetados por la comunidad. Eldon era un hábil carpintero, conocido por la calidad de su trabajo, mientras que Lila ejercía como curandera de la aldea, indispensable gracias a sus amplios conocimientos sobre hierbas, remedios naturales y medicina tradicional.
 
 Desde muy pequeño, Bram mostró una curiosidad insaciable por el mundo que se extendía más allá de los límites de Saucehondo. Pasaba horas escuchando las historias de viajeros ocasionales y las antiguas leyendas sobre las ruinas élficas de Myth Drannor y los misterios del Bosque de Cormanthor. Mientras sus hermanos, Finnian y Pot, siguieron el camino de sus padres aprendiendo los oficios familiares, Bram nunca encontró satisfacción en una vida tranquila. Lo atraían la exploración, el peligro y la promesa de descubrir lo desconocido.

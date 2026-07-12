@@ -11,7 +11,7 @@ tags:
 ---
 
 # Lord Raedric
-![[Simmon Raedric.jpg]]
+![[Simmon Raedric.jpg|488]]
 ## Resumen
 
 Antiguo señor de [[Ashabenford]] antes de que [[Firkraag]] controlara la ciudad.

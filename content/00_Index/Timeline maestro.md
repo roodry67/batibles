@@ -1,4 +1,4 @@
----
+﻿---
 tipo: indice
 icon: LiLayoutDashboard
 iconColor: "#64748b"
@@ -67,6 +67,7 @@ Las fechas ingame se conservan tal como estan reconstruidas actualmente. Cuando 
 | 420 | 04/06-06/06 | Bram y Lysara contactan con [[Ethel]] mediante el [[Pozo de Ethel]]. Ethel ofrece ayudar con [[Firkraag]] si Bram ayuda a su hermana. | [[Casa de Ethel]] | [[S038 - Mapaches, Ethel, Auronborax y Transmutación del alma]] | [[Hermana de Ethel]], [[templo de Oghma]] |
 | 430 | 04/06-06/06 | [[Alan]] consulta a [[Kharnar]] y aparece la [[Transmutación del alma]] como posible via para separar a [[Firkraag]] de [[Bram]]. | [[Cormanthor]] | [[S038 - Mapaches, Ethel, Auronborax y Transmutación del alma]] | [[Myth Drannor]], [[Vermithrax]] |
 | 440 | 06/06 | Antes de entrar en la arboleda, el grupo descubre la division politica de los circulos druidicos y que [[Brevo]] apoya a [[Arasyl]]. | [[Arboleda de Cormanthor]] | [[S038 - Mapaches, Ethel, Auronborax y Transmutación del alma]] | [[Druida bananero]], [[Trama - Arasyl en Cormanthor]] |
+| 450 | 08/06 | Los Batibles entran en la [[Arboleda de Cormanthor]], revelan la verdad a [[Brevo]] y se reúnen con [[Arasyl]], que porta un [[Guantelete de Talos]]. [[Sombra]] empieza a seguir a Arasyl al final de la sesión. | [[Arboleda de Cormanthor]] | [[S039 - Entrada a la arboleda]] | [[Ada]], [[Damecos]], [[Sombra]], [[Trama - Arasyl en Cormanthor]] |
 
 ## Ver tambien
 
@@ -76,3 +77,4 @@ Las fechas ingame se conservan tal como estan reconstruidas actualmente. Cuando 
 - [[Acto 1 - Formación de los Batibles]]
 - [[Acto 2 - Archenbridge]]
 - [[Acto 3 - Vuelta a Draconia]]
+

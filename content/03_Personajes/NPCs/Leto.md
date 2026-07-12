@@ -12,7 +12,7 @@ tags:
 ---
 
 # Leto
-![[Letharion.jpeg]]
+![[Letharion.jpeg|463]]
 ## Resumen
 
 Leto es un contacto que odia a los no muertos y proporciona información clave sobre los [[vampiros de Archenbridge]] tras el bloque del [[Cayo de la Bruma]]. También sugiere a [[Bram]] una posible vía extrema para separarse de [[Firkraag]]: morir y ser resucitado después.

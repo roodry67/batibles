@@ -1,4 +1,4 @@
----
+﻿---
 tipo: pj
 icon: LiUserRoundCheck
 iconColor: "#2563eb"
@@ -14,7 +14,7 @@ tags:
 ![[lysara.png]]
 ## Resumen
 
-Lysara es una de los Batibles y está directamente conectada con [[Arasyl]], su doble moralmente opuesto creado por el [[Deck of Many Things]]. Su ruta actual pasa por la [[Arboleda de Cormanthor]] y la política interna de los círculos druídicos.
+Lysara es una de los Batibles y está directamente conectada con [[Arasyl]], su doble moralmente opuesto creado por el [[Deck of Many Things]]. Su ruta actual pasa por la [[Arboleda de Cormanthor]], donde Arasyl ha ganado legitimidad como líder del Círculo del Clima.
 
 ## Información confirmada
 
@@ -24,12 +24,16 @@ Lysara es una de los Batibles y está directamente conectada con [[Arasyl]], su 
 - Lysara viaja disfrazada antes de entrar en la [[Arboleda de Cormanthor]].
 - [[Ethel]] afirma conocer a Lysara desde hace muchos años, aunque Lysara no lo recuerda.
 - La arboleda de [[Cormanthor]] está vinculada a su pasado y a la situación actual con Arasyl.
+- En [[S039 - Entrada a la arboleda]], Lysara revela su identidad a [[Brevo]] en privado y consigue que la crea.
+- La sesión termina con [[Sombra]], su compañero animal, empezando a seguir a Arasyl después de que esta le diga algo inaudible.
 
 ## Relaciones
 
-- [[Arasyl]]: doble opuesto y amenaza personal.
+- [[Arasyl]]: doble opuesto y amenaza personal, aunque ahora también figura legitimada dentro de la arboleda.
+- [[Sombra]]: compañero animal de Lysara; su reacción ante Arasyl queda como urgencia inmediata.
 - [[Ethel]]: la conoce de antes, aunque Lysara no lo recuerda.
-- [[Brevo]] y [[Druida bananero]]: figuras de la arboleda relevantes para su situación actual.
+- [[Brevo]]: cree a Lysara, pero reprocha el engaño usado para entrar en la arboleda.
+- [[Ada]] y [[Damecos]]: sabios de círculos presentes en el conclave.
 - [[Trama - Arasyl en Cormanthor]]: trama activa principal.
 
 ## Sesiones clave
@@ -37,8 +41,10 @@ Lysara es una de los Batibles y está directamente conectada con [[Arasyl]], su 
 - [[S005 - La carta que crea a Arasyl]]
 - [[S037 - Código anti-Arasyl]]
 - [[S038 - Mapaches, Ethel, Auronborax y Transmutación del alma]]
+- [[S039 - Entrada a la arboleda]]
 
 ## Dudas
 
 - Confirmar qué relación tuvo Lysara con [[Ethel]] en el pasado.
 - Confirmar qué sabe realmente la [[Arboleda de Cormanthor]] sobre Arasyl.
+- Confirmar si [[Sombra]] está hechizada o si reconoce algo de Lysara en Arasyl.

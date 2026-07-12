@@ -1,4 +1,4 @@
----
+﻿---
 tipo: npc
 icon: LiUserRound
 iconColor: "#7c3aed"
@@ -14,7 +14,7 @@ tags:
 
 ## Resumen
 
-Arasyl es una versión moralmente opuesta de [[Lysara]], creada por una carta del [[Deck of Many Things]] que [[Kharnar]] entregó a [[Alan]]. Actualmente está en la [[Arboleda de Cormanthor]], donde parte de los druidas la aceptan como si fuera la verdadera Lysara.
+Arasyl es una versión moralmente opuesta de [[Lysara]], creada por una carta del [[Deck of Many Things]] que [[Kharnar]] entregó a [[Alan]]. Actualmente está en la [[Arboleda de Cormanthor]], donde ocupa una posición reconocida como líder del Círculo del Clima. Parte de los druidas la protegen y la tratan como figura legítima, aunque los Batibles saben que no es la Lysara original.
 
 ## Información confirmada
 
@@ -23,25 +23,29 @@ Arasyl es una versión moralmente opuesta de [[Lysara]], creada por una carta de
 - [[Kharnar]] creó o entregó una [[Brújula de Arasyl]] para poder rastrearla.
 - Puede identificarse por una anomalía física: tiene dos pulgares derechos; en la mano izquierda, el pulgar está en el lado equivocado.
 - El grupo estableció el [[Código Pegaso-embotella]] para distinguir a Lysara de Arasyl si hubiera riesgo de suplantación.
-- Está en la [[Arboleda de Cormanthor]].
-- El [[Druida bananero]] cree que la Lysara presente en la arboleda es la verdadera, pero en realidad se trata de Arasyl.
-- [[Brevo]], archidruida y líder de la arboleda, apoya a Arasyl.
-- Arasyl parece liderar el [[Arboleda de Cormanthor|Círculo del Clima]].
-- Los círculos de los Animales y del Clima apoyan a Arasyl y los cambios recientes.
+- Está en la [[Arboleda de Cormanthor]] y lidera el Círculo del Clima.
+- [[Brevo]], archidruida de la arboleda, la apoya y la protegió cuando [[Malazuth]] intentó entrar para matarla.
+- Arasyl afirma que no sabía que existiera otra persona como ella; según su versión, apareció sola en el bosque y un mago la persiguió para asesinarla.
+- Rechazó responder preguntas dentro de un [[Círculo de verdad]].
+- Aceptó usar un nombre distinto para evitar compartir identidad con Lysara.
+- Porta un [[Guantelete de Talos]] importante para el culto de [[Talos]], aunque sus poderes son desconocidos.
+- En [[S039 - Entrada a la arboleda]], habló en voz baja con [[Sombra]], el compañero animal de Lysara, y Sombra empezó a seguirla.
 
 ## Impacto actual
 
-- Su presencia está dividiendo políticamente la [[Arboleda de Cormanthor]].
+- Su presencia divide políticamente la [[Arboleda de Cormanthor]].
 - El deterioro de los acuerdos con [[Ashabenford]] parece coincidir con su llegada o influencia.
-- Puede generar confusión social alrededor de [[Lysara]], especialmente si otros druidas la reconocen como la Lysara legítima.
+- Tiene legitimidad interna dentro de la arboleda, lo que dificulta que los Batibles puedan tratarla simplemente como impostora o amenaza externa.
+- La situación con Sombra crea una urgencia inmediata para la siguiente sesión.
 
 ## Relaciones
 
 - [[Lysara]]: original de la que Arasyl es reflejo moralmente opuesto.
-- [[Alan]]: la creación de Arasyl deriva de una carta que Alan hizo recaer sobre Lysara.
+- [[Alan]]: la creación de Arasyl deriva de una carta que Alan hizo recaer sobre Lysara; en S039 intenta despedirse de ella con empatía.
 - [[Kharnar]]: entregó el Deck y luego la [[Brújula de Arasyl]].
-- [[Brevo]]: la apoya dentro de la arboleda.
-- [[Druida bananero]]: fuente externa sobre la situación política de la arboleda.
+- [[Brevo]]: la protege y la reconoce como líder del Círculo del Clima.
+- [[Malazuth]]: según Brevo, intentó asesinarla al llegar a la arboleda.
+- [[Sombra]]: posible vínculo o influencia pendiente de aclarar.
 - [[Trama - Arasyl en Cormanthor]]: trama activa principal.
 
 ## Sesiones clave
@@ -51,10 +55,12 @@ Arasyl es una versión moralmente opuesta de [[Lysara]], creada por una carta de
 - [[S036 - Llegada a Ashabenford y Leonora]]
 - [[S037 - Código anti-Arasyl]]
 - [[S038 - Mapaches, Ethel, Auronborax y Transmutación del alma]]
+- [[S039 - Entrada a la arboleda]]
 
 ## Dudas
 
-- Confirmar qué quiere Arasyl dentro de la [[Arboleda de Cormanthor]].
-- Confirmar si Arasyl tiene poderes, recuerdos o legitimidad social heredados de [[Lysara]].
-- Confirmar por qué [[Brevo]] la apoya.
-- Confirmar si los círculos de la arboleda conocen su verdadera naturaleza.
+- Confirmar qué nombre distinto adoptará.
+- Confirmar qué quiere realmente dentro de la arboleda.
+- Confirmar si tiene poderes, recuerdos o legitimidad social heredados de [[Lysara]].
+- Confirmar si el [[Guantelete de Talos]] influye en su papel o en los cambios climáticos.
+- Confirmar qué le dijo a [[Sombra]] y si la está controlando.

@@ -1,4 +1,4 @@
----
+﻿---
 tipo: sesion
 icon: LiLogs
 iconColor: "#0f766e"
@@ -8,7 +8,7 @@ fecha_ingame_inicio: "probablemente 28/02"
 fecha_ingame_fin:
 acto: "Acto 1 - Formación de los Batibles"
 estado: "reconstruida"
-resumen: "[[Alan Aldiz]] recibe de [[Kharnar]] un [[Deck of Many Things]]. Una carta genera a [[Arasyl]], doble moralmente opuesto de [[Lysara]]."
+resumen: "[[Alan|Alan Aldiz]] recibe de [[Kharnar]] un [[Deck of Many Things]]. Una carta genera a [[Arasyl]], doble moralmente opuesto de [[Lysara]]."
 fuentes:
   - "FUENTES BRUTAS/Log maestro de sesiones - Batibles.md"
 participantes:
@@ -76,3 +76,4 @@ tags:
 
 
 - Fuente principal indicada en frontmatter.
+

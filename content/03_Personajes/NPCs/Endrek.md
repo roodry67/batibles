@@ -13,7 +13,7 @@ tags:
 ---
 
 # Endrek
-![[Endrek Ishtar.jpg]]
+![[Endrek Ishtar.jpg|523]]
 ## Resumen
 
 Endrek es primo de [[Lasarferis]], miembro de los [[Zhentarim]] y probable brujo. Secuestró a los padres de Lasarferis para obligarla a entregarle sus poderes de hechicera y el [[Reloj de Lasarferis]].

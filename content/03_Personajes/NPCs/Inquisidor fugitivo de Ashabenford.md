@@ -11,7 +11,7 @@ tags:
 ---
 
 # Inquisidor fugitivo de Ashabenford
-![[Inquisidor malote.jpg]]
+![[Inquisidor malote.jpg|578]]
 ## Resumen
 
 Figura mencionada en [[Ashabenford]] como posible resto o rastro de [[la Inquisición]]. La información conservada es mínima, así que queda como pista secundaria.

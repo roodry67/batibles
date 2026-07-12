@@ -1,4 +1,4 @@
----
+﻿---
 title: Batibles
 tipo: portada
 icon: LiHome
@@ -17,14 +17,14 @@ Vault de campaña de D&D para seguir sesiones, tramas abiertas, personajes, luga
 - [[Estado actual de la campaña]]: situación actual y amenazas activas.
 - [[Agenda actual]]: próximas acciones del grupo.
 - [[Pistas y preguntas]]: dudas abiertas, pistas sueltas y asuntos a revisar.
-- [[S038 - Mapaches, Ethel, Auronborax y Transmutación del alma]]: última sesión registrada.
+- [[S039 - Entrada a la arboleda]]: última sesión registrada.
 - [[Log de sesiones]]: listado completo de sesiones.
 - [[Timeline maestro]]: cronología curada de eventos importantes.
 - [[Preparacion de sesion en directo]]: flujo para usar el vault durante partida.
 
 ## Ahora mismo
 
-El grupo está en el [[Acto 3 - Vuelta a Draconia]], a punto de entrar en la [[Arboleda de Cormanthor]] para investigar la influencia de [[Arasyl]], entender la división interna de los círculos druídicos y conseguir [[madera férrea]] para [[Leonora]].
+El grupo está en el [[Acto 3 - Vuelta a Draconia]], dentro de la [[Arboleda de Cormanthor]]. [[Brevo]] cree a [[Lysara]], pero protege a [[Arasyl]], que lidera el Círculo del Clima y porta un [[Guantelete de Talos]]. La urgencia inmediata es resolver qué ocurre con [[Sombra]], que empieza a seguir a Arasyl.
 
 ## Tramas activas
 
@@ -83,6 +83,7 @@ El grupo está en el [[Acto 3 - Vuelta a Draconia]], a punto de entrar en la [[A
 - [[Máscara blanca de Tiamat]]
 - [[Lágrima de Aurin]]
 - [[madera férrea]]
+- [[Guantelete de Talos]]
 
 ## Actos
 
@@ -95,3 +96,4 @@ El grupo está en el [[Acto 3 - Vuelta a Draconia]], a punto de entrar en la [[A
 - [[Preparacion de sesion en directo]]
 - [[Protocolo de consolidacion de notas]]
 - [[Auditoría de simplificación del vault]]
+

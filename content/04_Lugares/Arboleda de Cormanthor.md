@@ -1,4 +1,4 @@
----
+﻿---
 tipo: lugar
 icon: LiTrees
 iconColor: "#166534"
@@ -24,43 +24,52 @@ tags:
 
 ## Resumen
 
-Arboleda druídica de [[Cormanthor]] vinculada al pasado de [[Lysara]]. Actualmente está dividida por la influencia de [[Arasyl]], que ha sido tomada por algunos como si fuera la verdadera Lysara.
+Arboleda druídica de [[Cormanthor]] vinculada al pasado de [[Lysara]]. Actualmente está dividida por la influencia de [[Arasyl]], que ocupa una posición reconocida como líder del Círculo del Clima y cuenta con la protección de [[Brevo]], archidruida de la arboleda.
 
 ## Información confirmada
 
-- El líder de la arboleda es [[Brevo]], archidruida de la arboleda.
-- Brevo apoya a [[Arasyl]].
-- La arboleda está dividida en cinco círculos conocidos: Vida, Tierra, Luna, Animales y Clima.
+- El líder de la arboleda es [[Brevo]], archidruida.
+- En la arboleda viven menos de cien druidas, pero más de cincuenta.
+- La arboleda está organizada en cinco círculos: Vida, Tierra, Luna, Animales y Clima.
+- Cada círculo tiene un sabio elegido democráticamente, además del archidruida.
+- [[Ada]] es la sabia o representante conocida del Círculo de la Tierra.
+- [[Damecos]] es el sabio o representante conocido del Círculo de los Animales.
+- [[Arasyl]] lidera el Círculo del Clima.
 - Los círculos de la Vida y de la Tierra no están a favor de los cambios recientes.
 - El círculo de la Luna se mantiene neutral o indeciso.
-- Los círculos de los Animales y del Clima están a favor de [[Arasyl]] y del cambio.
-- [[Arasyl]] parece liderar el [[Arboleda de Cormanthor|Círculo del Clima]].
+- Los círculos de los Animales y del Clima están a favor de Arasyl y del cambio.
 - Los acuerdos con [[Ashabenford]] sobre cosechas y [[madera férrea]] se han deteriorado.
+- La arboleda usa vigilancia natural o druídica: escarabajos luminiscentes, serpientes grandes y otras presencias del bosque.
+- Los Batibles son llevados al conclave con los ojos vendados.
 
 ## Círculos druídicos
 
-| Círculo | Posición actual |
-| --- | --- |
-| Vida | Opuesto a los cambios recientes. |
-| Tierra | Opuesto a los cambios recientes. |
-| Luna | Neutral o indeciso. |
-| Animales | A favor de [[Arasyl]] y del cambio. |
-| Clima | A favor de [[Arasyl]]; Arasyl parece liderarlo. |
+| Círculo | Figura conocida | Posición actual |
+| --- | --- | --- |
+| Vida | Desconocida | Opuesto a los cambios recientes. |
+| Tierra | [[Ada]] | Opuesto a los cambios recientes. |
+| Luna | Desconocida | Neutral o indeciso. |
+| Animales | [[Damecos]] | A favor de [[Arasyl]] y del cambio. |
+| Clima | [[Arasyl]] | A favor del cambio; Arasyl lo lidera. |
 
 ## Relaciones
 
 - [[Lysara]]: vínculo personal y social con la arboleda.
-- [[Arasyl]]: suplantación o sustitución política de Lysara.
-- [[Brevo]]: líder actual y apoyo clave de Arasyl.
-- [[Druida bananero]]: fuente de información sobre la división interna.
+- [[Arasyl]]: figura reconocida dentro de la arboleda, aunque no sea la Lysara original.
+- [[Brevo]]: archidruida y apoyo clave de Arasyl.
+- [[Ada]] y [[Damecos]]: sabios presentes en el conclave.
+- [[Tania]]: druida que guía al grupo hasta el conclave.
+- [[Druida bananero]]: fuente externa de información sobre la división interna.
 - [[Ashabenford]]: ciudad afectada por el deterioro de los acuerdos.
 
-## Sesión clave
+## Sesiones clave
 
 - [[S038 - Mapaches, Ethel, Auronborax y Transmutación del alma]]
+- [[S039 - Entrada a la arboleda]]
 
 ## Dudas
 
 - Confirmar si todos los círculos conocen que la Lysara de la arboleda es [[Arasyl]].
 - Confirmar qué cambios concretos promueve Arasyl.
+- Confirmar el sabio del Círculo de la Vida y del Círculo de la Luna.
 - Confirmar si la arboleda tiene nombre propio distinto.
