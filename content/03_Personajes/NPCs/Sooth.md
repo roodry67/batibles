@@ -13,7 +13,7 @@ tags:
   - npc
 ---
 
-# Soth
+# Sooth
 
 ## Resumen
 

@@ -13,7 +13,7 @@ tags:
   - npc
 ---
 
-# Talia
+# Talia Vex
 
 ## Resumen
 

@@ -54,11 +54,11 @@ Los mapaches aceptan vivir provisionalmente en el carro y [[Luis]] obtiene del [
 ### Moneda Negra
 
 - El grupo conoce a la [[Moneda Negra]], compañía de mercenarios, comerciantes y contrabandistas de Aguas Profundas.
-- [[Nath]], goblin y jefe de la banda, entrega la [[Moneda negra de Nath]], que permite llamarlo para que localice al portador.
-- [[Razzmun]] es un dracónido con cayado y usuario de magia.
-- [[Soth]] es una paladina joven e imponente, de divinidad desconocida. Heredó de su padre una armadura con pinchos que él obtuvo tras matar a un orco.
-- El grupo deduce, sin confirmación, que Soth podría ser noble de un feudo fronterizo con los orcos: Scardale, Harrowdale o Hillsfar.
-- [[Talia]] parece una pícara y puede comunicarse telepáticamente. El grupo sospecha que quizá pueda leer la mente, pero solo la comunicación telepática está confirmada.
+- [[Naz Grimracket]], goblin y jefe de la banda, entrega la [[Moneda negra de Naz Grimracket]], que permite llamarlo para que localice al portador.
+- [[Razzmorn]] es un dracónido con cayado y usuario de magia.
+- [[Sooth]] es una paladina joven e imponente, de divinidad desconocida. Heredó de su padre una armadura con pinchos que él obtuvo tras matar a un orco.
+- El grupo deduce, sin confirmación, que Sooth podría ser noble de un feudo fronterizo con los orcos: Scardale, Harrowdale o Hillsfar.
+- [[Talia Vex]] parece una «pícara» y puede comunicarse telepáticamente. El grupo sospecha que quizá pueda leer la mente, pero solo la comunicación telepática está confirmada.
 - La Moneda Negra participará en los Tesoros del Dragón. Ambos grupos pactan no atacarse ni robarse; se rechaza una propuesta más amplia de ayuda mutua.
 - Los Batibles dejan que se alejen y viajan tres o cuatro horas más para dormir a distancia.
 
@@ -93,12 +93,12 @@ Los mapaches aceptan vivir provisionalmente en el carro y [[Luis]] obtiene del [
 ### Deducciones y sospechas del grupo
 
 - La prisionera de Ethel podría ser la propia Ethel.
-- Soth podría proceder de una familia noble fronteriza.
-- Talia podría ser capaz de leer la mente.
+- Sooth podría proceder de una familia noble fronteriza.
+- Talia Vex podría ser capaz de leer la mente.
 
 ## NPCs presentes o mencionados
 
-[[Luis]], [[Ethel]], [[Lysara]], [[Bram]], [[Nath]], [[Razzmun]], [[Soth]], [[Talia]], [[Walter Elias]], [[Leonora]], [[Aleria]], [[Darvan]], [[Cilethor]], [[Firkraag]], [[Alan]].
+[[Luis]], [[Ethel]], [[Lysara]], [[Bram]], [[Naz Grimracket]], [[Razzmorn]], [[Sooth]], [[Talia Vex]], [[Walter Elias]], [[Leonora]], [[Aleria]], [[Darvan]], [[Cilethor]], [[Firkraag]], [[Alan]].
 
 ## Lugares
 
@@ -106,14 +106,14 @@ Los mapaches aceptan vivir provisionalmente en el carro y [[Luis]] obtiene del [
 
 ## Objetos, pistas y recursos
 
-[[Llave mágica de Luis]], [[Moneda negra de Nath]], [[Varita de Guarda contra la Muerte]], [[Colgante de retransmisión de Walter Elias]], [[Batido Mágico de Ethel]].
+[[Llave mágica de Luis]], [[Moneda negra de Naz Grimracket]], [[Varita de Guarda contra la Muerte]], [[Colgante de retransmisión de Walter Elias]], [[Batido Mágico de Ethel]].
 
 ## Pistas y preguntas
 
 - ¿Quién es realmente la prisionera que Ethel presenta como su hermana?
 - ¿Qué dos recompensas se elegirán?
 - ¿Qué comprador encontrará Walter Elias y qué consecuencias tendrá la venta?
-- ¿Cuál es el origen de Soth y hasta dónde llegan los poderes de Talia?
+- ¿Cuál es el origen de Sooth y hasta dónde llegan los poderes de Talia Vex?
 - ¿Puede Aleria revertir la transformación de los mapaches?
 
 ## Tramas avanzadas

@@ -19,7 +19,7 @@ tags:
 - ¿Qué dos recompensas se escogerán tras liberar a la prisionera?
 - ¿Puede [[Aleria]] curar a los mapaches?
 - ¿Respetará la [[Moneda Negra]] el pacto durante el torneo?
-- ¿De dónde procede [[Soth]] y puede [[Talia]] leer la mente?
+- ¿De dónde procede [[Sooth]] y puede [[Talia Vex]] leer la mente?
 - ¿Quién comprará la información sobre los atentados de [[Draconia]] y el [[Devorador]]?
 
 ## Arboleda de Cormanthor

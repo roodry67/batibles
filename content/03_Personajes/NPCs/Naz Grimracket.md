@@ -13,7 +13,7 @@ tags:
   - npc
 ---
 
-# Nath
+# Naz Grimracket
 
 ## Resumen
 
@@ -21,10 +21,10 @@ Goblin que se presenta como jefe de la [[Moneda Negra]], banda de Aguas Profunda
 
 ## Informacion confirmada
 
-- Entregó a los Batibles la [[Moneda negra de Nath]] para que puedan llamarlo.
+- Entregó a los Batibles la [[Moneda negra de Naz Grimracket]] para que puedan llamarlo.
 - Pactó con los Batibles no atacarse ni robarse mutuamente.
 
 ## Relaciones y enlaces relevantes
 
-- [[Razzmun]], [[Soth]] y [[Talia]]: miembros de su grupo.
+- [[Razzmorn]], [[Sooth]] y [[Talia Vex]]: miembros de su grupo.
 - [[Trama - Moneda Negra]].

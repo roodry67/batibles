@@ -6,22 +6,22 @@ estado: activa
 poseedor_actual: "Batibles"
 aliases:
   - "moneda de Black Coin"
-  - "moneda de contacto de Nath"
+  - "moneda de contacto de Naz Grimracket"
 primera_aparicion: "[[S041 - Moneda Negra y regreso a Ashabenford]]"
 tags:
   - objeto
 ---
 
-# Moneda negra de Nath
+# Moneda negra de Naz Grimracket
 
 ## Resumen
 
-Moneda entregada por [[Nath]] como tarjeta de visita y método de contacto con la [[Moneda Negra]].
+Moneda entregada por [[Naz Grimracket]] como tarjeta de visita y método de contacto con la [[Moneda Negra]].
 
 ## Propiedades conocidas
 
 - Al apretarla con fuerza comienza a calentarse.
-- Nath puede localizar la moneda y a quien la porta, permitiendo llamarlo.
+- Naz Grimracket puede localizar la moneda y a quien la porta, permitiendo llamarlo.
 
 ## Dudas
 
