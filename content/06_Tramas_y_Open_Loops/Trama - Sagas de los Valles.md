@@ -31,6 +31,8 @@ Trama para reunir lo que se sabe sobre las sagas que han aparecido o se sospecha
 - Ethel conoce a [[Lysara]] desde hace muchos años, aunque Lysara no lo recuerda.
 - Ethel puede ofrecer una vía para ayudar a [[Bram]] con [[Firkraag]], pero exige que Bram ayude a su hermana.
 - Ethel aceptó ofrecer a los mapaches transformados una vía para recuperar su humanidad a cambio de un precio.
+- En [[S041 - Moneda Negra y regreso a Ashabenford]], el trato queda cerrado: los Batibles liberarán a la persona que Ethel presenta como su hermana y elegirán dos recompensas entre cinco.
+- Las recompensas son transparencia en los tratos de Ethel durante diez años; información completa sobre el problema de [[Bram]]; el pasado olvidado de [[Lysara]]; curar a los mapaches; o el [[Batido Mágico de Ethel]]. No se ha elegido ninguna.
 - La hermana de Ethel está bajo el estanque del [[templo de Oghma]].
 - Agatha prestó un tomo del [[Demonomicon]] a [[Quamara]].
 
@@ -43,6 +45,8 @@ Trama para reunir lo que se sabe sobre las sagas que han aparecido o se sospecha
 ## Próximas acciones
 
 - Decidir si merece la pena ayudar a la hermana de [[Ethel]] como vía para separar a [[Firkraag]] de [[Bram]].
+- Liberar a la prisionera y decidir las dos recompensas.
+- Investigar con cautela la sospecha de que la prisionera podría ser la propia Ethel; no está confirmado.
 - Confirmar si [[Agatha]] es realmente hermana de Ethel.
 - Investigar quién encerró a la hermana de Ethel bajo el [[templo de Oghma]] y por qué.
 
@@ -51,6 +55,7 @@ Trama para reunir lo que se sabe sobre las sagas que han aparecido o se sospecha
 - [[S011 - Información sobre Trizzen, Quamara y la torre]]
 - [[S016 - Infiltración y asalto a la torre de Quamara]]
 - [[S038 - Mapaches, Ethel, Auronborax y Transmutación del alma]]
+- [[S041 - Moneda Negra y regreso a Ashabenford]]
 
 ## Dudas
 

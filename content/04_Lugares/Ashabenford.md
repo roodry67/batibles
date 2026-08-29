@@ -37,6 +37,9 @@ Ciudad cercana a [[Cormanthor]] y al volcán asociado al título de [[Firkraag|S
 - [[Firkraag]] quiere saber por qué Darvan y Cilethor no estaban presentes cuando murió.
 - La ciudad necesita [[madera férrea]] y que los druidas de la [[Arboleda de Cormanthor]] vuelvan a ayudar con las cosechas.
 - Los problemas de clima o cosechas parecen coincidir con la llegada de [[Arasyl]] a la arboleda.
+- El [[Coliseo de Ashabenford]], lugar de la muerte de [[Firkraag]], está siendo reparado para los Tesoros del Dragón.
+- El 14/06 la ciudad está llena de visitantes, comerciantes y aventureros por la coronación, las justas tradicionales y el torneo.
+- [[Darvan]] y [[Cilethor]] sirven actualmente en la guardia de [[Leonora]].
 
 ## Relaciones
 
@@ -50,6 +53,7 @@ Ciudad cercana a [[Cormanthor]] y al volcán asociado al título de [[Firkraag|S
 
 - [[S035 - Regreso a Tilverton y los Dragones]]
 - [[S036 - Llegada a Ashabenford y Leonora]]
+- [[S041 - Moneda Negra y regreso a Ashabenford]]
 
 ## Dudas
 

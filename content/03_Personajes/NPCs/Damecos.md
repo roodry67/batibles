@@ -8,7 +8,7 @@ facciones:
   - "Arboleda de Cormanthor"
 relacion_con_grupo: "contacto institucional"
 primera_aparicion: "[[S039 - Entrada a la arboleda]]"
-ultima_aparicion: "[[S039 - Entrada a la arboleda]]"
+ultima_aparicion: "[[S040 - Valeera y la despedida de la arboleda]]"
 tags:
   - npc
 ---
@@ -33,6 +33,9 @@ Presente en el conclave cuando [[Brevo]] trae a [[Arasyl]] para hablar con el gr
 - Está vinculado al Círculo de los Animales.
 - El Círculo de los Animales está a favor de [[Arasyl]] y de los cambios recientes.
 - Presencia la conversación entre los Batibles, Brevo y Arasyl.
+- Es el tercer hijo varón y el menor de [[Lord Raedric]].
+- Mantiene una relación sexual o romántica con [[Arasyl|Valeera]].
+- Según la información transmitida al grupo, entre sus motivaciones estaría perjudicar a [[Ashabenford]].
 
 ## Relaciones y enlaces relevantes
 
@@ -45,6 +48,7 @@ Presente en el conclave cuando [[Brevo]] trae a [[Arasyl]] para hablar con el gr
 ## Hipotesis
 
 - Podría ser una voz favorable a Arasyl dentro de la arboleda, dado el posicionamiento general del Círculo de los Animales.
+- Los Batibles interpretan que su actitud agresiva y su necesidad de imponerse podrían ser una sobrecompensación por no haber sido tomado en serio como hijo menor. Es una deducción, no un hecho confirmado.
 
 ## Dudas
 

@@ -6,6 +6,7 @@ estado: abierta
 aliases:
   - "Arasyl"
   - "Arasyl en Cormanthor"
+  - "Valeera"
 primera_aparicion: "[[S005 - La carta que crea a Arasyl]]"
 tags:
   - trama
@@ -15,7 +16,7 @@ tags:
 
 ## Resumen
 
-[[Arasyl]] nació de una carta del [[Deck of Many Things]] como doble moralmente opuesto de [[Lysara]]. Ahora está en la [[Arboleda de Cormanthor]], donde lidera el Círculo del Clima y cuenta con la protección de [[Brevo]], aunque los Batibles han revelado a Brevo que la verdadera Lysara es otra.
+[[Arasyl]] nació de una carta del [[Deck of Many Things]] como doble moralmente opuesto de [[Lysara]]. En S040 adopta el nombre **Valeera**. Lidera el Círculo del Clima de la [[Arboleda de Cormanthor]], pero los Batibles han decidido no investigarla activamente por ahora para respetar el acuerdo de Lysara.
 
 ## Estado actual
 
@@ -26,6 +27,11 @@ tags:
 - Arasyl niega malas intenciones y afirma que fue perseguida por un mago cuando apareció en el bosque.
 - Arasyl rechaza responder preguntas dentro de un [[Círculo de verdad]].
 - Arasyl acepta usar un nombre distinto.
+- Adopta el nombre Valeera, se tiñe el pelo de rojo y conserva un mechón blanco frontal.
+- Mantiene una relación sexual o romántica con [[Damecos]] y frecuenta la [[Cascada y cueva de Valeera]].
+- [[Beran]] y [[Ada]] se oponen a su actuación y han pedido pruebas.
+- El Círculo del Clima promovió la expulsión de Lysara, pero después apoyó la readmisión de Arasyl; [[Noldor]] era su antiguo líder.
+- [[Sombra]] vuelve a reconocer a Lysara como su compañera.
 - Arasyl porta un [[Guantelete de Talos]] importante para el culto de [[Talos]].
 - [[Sombra]], el compañero animal de Lysara, empieza a seguir a Arasyl al final de [[S039 - Entrada a la arboleda]].
 
@@ -47,7 +53,10 @@ tags:
 ## Próximas acciones
 
 - Resolver inmediatamente qué ocurre con [[Sombra]].
-- Averiguar qué nombre adoptará Arasyl.
+- Averiguar cómo recuperó una posición de poder y por qué cambió la postura del Círculo del Clima.
+- Determinar si existió intervención externa. [[Talos]], [[Ethel]] y [[Vermithrax]] son solo hipótesis sin confirmar.
+- Averiguar qué hace en la [[Cascada y cueva de Valeera]].
+- No investigarla activamente por ahora, salvo que la decisión de Lysara cambie o surja una urgencia.
 - Investigar el [[Guantelete de Talos]].
 - Negociar con [[Brevo]], [[Ada]], [[Damecos]] y los círculos sin partir de que la arboleda acepte la autoridad moral de los Batibles.
 - Resolver el suministro de [[madera férrea]] y la ayuda a [[Ashabenford]].
@@ -60,6 +69,7 @@ tags:
 - [[S037 - Código anti-Arasyl]]
 - [[S038 - Mapaches, Ethel, Auronborax y Transmutación del alma]]
 - [[S039 - Entrada a la arboleda]]
+- [[S040 - Valeera y la despedida de la arboleda]]
 
 ## Dudas
 

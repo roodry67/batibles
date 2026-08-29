@@ -12,6 +12,12 @@ tags:
 
 # Hermana de Ethel
 
+## Actualización en S041
+
+- [[Ethel]] presenta a la prisionera como su hermana y los Batibles han aceptado liberarla.
+- Por la forma en que Ethel planteó el trato, el grupo sospecha que la prisionera podría ser la propia Ethel. Esto no está confirmado y no sustituye la identidad registrada anteriormente.
+- La liberación dará derecho a escoger dos de cinco recompensas ofrecidas por Ethel.
+
 ## Resumen
 
 Saga cuyo nombre propio no se conoce por ahora. Está encerrada bajo el agua, en el fondo del estanque del [[templo de Oghma]]. Según [[Ethel]], es su hermana y podría ser la clave para que Ethel ayude a [[Bram]] con [[Firkraag]].

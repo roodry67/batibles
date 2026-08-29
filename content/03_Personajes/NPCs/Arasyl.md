@@ -5,6 +5,7 @@ iconColor: "#7c3aed"
 estado: activa
 aliases:
   - "doble de Lysara"
+  - "Valeera"
 primera_aparicion: "[[S005 - La carta que crea a Arasyl]]"
 tags:
   - npc
@@ -14,7 +15,7 @@ tags:
 
 ## Resumen
 
-Arasyl es una versión moralmente opuesta de [[Lysara]], creada por una carta del [[Deck of Many Things]] que [[Kharnar]] entregó a [[Alan]]. Actualmente está en la [[Arboleda de Cormanthor]], donde ocupa una posición reconocida como líder del Círculo del Clima. Parte de los druidas la protegen y la tratan como figura legítima, aunque los Batibles saben que no es la Lysara original.
+Arasyl es una versión moralmente opuesta de [[Lysara]], creada por una carta del [[Deck of Many Things]] que [[Kharnar]] entregó a [[Alan]]. En [[S040 - Valeera y la despedida de la arboleda]] adopta el nombre **Valeera**. Es líder del Círculo del Clima de la [[Arboleda de Cormanthor]].
 
 ## Información confirmada
 
@@ -27,9 +28,12 @@ Arasyl es una versión moralmente opuesta de [[Lysara]], creada por una carta de
 - [[Brevo]], archidruida de la arboleda, la apoya y la protegió cuando [[Malazuth]] intentó entrar para matarla.
 - Arasyl afirma que no sabía que existiera otra persona como ella; según su versión, apareció sola en el bosque y un mago la persiguió para asesinarla.
 - Rechazó responder preguntas dentro de un [[Círculo de verdad]].
-- Aceptó usar un nombre distinto para evitar compartir identidad con Lysara.
+- Adoptó el nombre **Valeera**, se tiñó el pelo de rojo y conservó un mechón blanco frontal para diferenciarse de Lysara.
 - Porta un [[Guantelete de Talos]] importante para el culto de [[Talos]], aunque sus poderes son desconocidos.
 - En [[S039 - Entrada a la arboleda]], habló en voz baja con [[Sombra]], el compañero animal de Lysara, y Sombra empezó a seguirla.
+- Mantiene una relación sexual o romántica con [[Damecos]].
+- Frecuenta la [[Cascada y cueva de Valeera]].
+- Pidió a Lysara que no se cruzaran ni interfiriera en su vida. Los Batibles decidieron no investigarla activamente por ahora.
 
 ## Impacto actual
 
@@ -56,11 +60,11 @@ Arasyl es una versión moralmente opuesta de [[Lysara]], creada por una carta de
 - [[S037 - Código anti-Arasyl]]
 - [[S038 - Mapaches, Ethel, Auronborax y Transmutación del alma]]
 - [[S039 - Entrada a la arboleda]]
+- [[S040 - Valeera y la despedida de la arboleda]]
 
 ## Dudas
 
-- Confirmar qué nombre distinto adoptará.
 - Confirmar qué quiere realmente dentro de la arboleda.
 - Confirmar si tiene poderes, recuerdos o legitimidad social heredados de [[Lysara]].
 - Confirmar si el [[Guantelete de Talos]] influye en su papel o en los cambios climáticos.
-- Confirmar qué le dijo a [[Sombra]] y si la está controlando.
+- Averiguar por qué el Círculo del Clima cambió de postura y si alguien externo facilitó su ascenso.

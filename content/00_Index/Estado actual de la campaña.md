@@ -10,19 +10,22 @@ tags:
 
 ## Situación actual
 
-El grupo está dentro de la [[Arboleda de Cormanthor]], en pleno conflicto político alrededor de [[Arasyl]]. [[Brevo]] cree a [[Lysara]], pero protege a Arasyl y no aprueba que los Batibles hayan entrado mediante engaños.
+El grupo ha llegado a [[Ashabenford]] el 14 de junio, durante los preparativos de las justas, la coronación y los Tesoros del Dragón. [[Arasyl]] ha adoptado el nombre **Valeera** y su investigación queda aplazada por decisión de [[Lysara]].
 
 ## Objetivo inmediato
 
-- Resolver qué ocurre con [[Sombra]], que ha empezado a seguir a [[Arasyl]].
-- Investigar el [[Guantelete de Talos]] que porta Arasyl.
-- Entender la división interna de la arboleda y la posición de [[Ada]], [[Damecos]] y los demás círculos.
-- Recuperar o negociar el suministro de [[madera férrea]] para [[Leonora]].
+- Prepararse para el torneo y las justas.
+- Ayudar a [[Leonora]] a desescalar conflictos y curar heridos.
+- Consultar a [[Aleria]] sobre los mapaches.
+- Mantener el pacto con la [[Moneda Negra]].
+- Avanzar el trato con [[Ethel]] y esperar noticias de [[Walter Elias]].
 
 ## Amenazas activas
 
-- [[Arasyl]] en [[Cormanthor]], ahora con legitimidad interna como líder del Círculo del Clima.
-- El posible vínculo entre [[Arasyl]] y [[Sombra]].
+- [[Arasyl|Valeera]] conserva poder en [[Cormanthor]], aunque el grupo ha decidido no investigarla de momento.
+- Los futuros atentados en [[Draconia]] y el [[Devorador]].
+- La identidad incierta de la prisionera de [[Ethel]].
+- La [[Moneda Negra]] como rival potencial durante el torneo.
 - El [[Guantelete de Talos]] y su relación desconocida con el clima o la arboleda.
 - La relación entre [[Bram]] y [[Firkraag]].
 - [[Bastian]] y restos de [[la Inquisición]].

@@ -21,6 +21,7 @@ Antiguo señor de [[Ashabenford]] antes de que [[Firkraag]] controlara la ciudad
 - Gobernaba [[Ashabenford]] antes de [[Firkraag]].
 - Los [[Caballeros de la Niebla]] eran leales a Lord Raedric antes de pasar, al menos en teoría, a servir a Firkraag.
 - Actualmente la lealtad esperada de los Caballeros de la Niebla sería hacia [[Leonora]].
+- [[Damecos]], líder del Círculo de los Animales, es su tercer hijo varón y el menor de los hermanos.
 
 ## Importancia actual
 

@@ -10,6 +10,18 @@ tags:
 
 # Pistas y preguntas
 
+## Actualización tras S040-S041
+
+- ¿Por qué el Círculo del Clima promovió la expulsión de [[Lysara]] y después la readmisión de [[Arasyl|Valeera]]?
+- ¿Intervino alguien externo en el ascenso de Valeera? [[Talos]], [[Ethel]] y [[Vermithrax]] son hipótesis, no conexiones confirmadas.
+- ¿Qué hace Valeera en la [[Cascada y cueva de Valeera]]? La investigación queda aplazada por decisión del grupo.
+- ¿Es la prisionera que [[Ethel]] llama hermana la propia Ethel?
+- ¿Qué dos recompensas se escogerán tras liberar a la prisionera?
+- ¿Puede [[Aleria]] curar a los mapaches?
+- ¿Respetará la [[Moneda Negra]] el pacto durante el torneo?
+- ¿De dónde procede [[Soth]] y puede [[Talia]] leer la mente?
+- ¿Quién comprará la información sobre los atentados de [[Draconia]] y el [[Devorador]]?
+
 ## Arboleda de Cormanthor
 
 - ¿Qué está haciendo exactamente [[Arasyl]] dentro de la [[Arboleda de Cormanthor]]?

@@ -42,4 +42,8 @@ Antiguo jefe de la guardia personal de [[Firkraag]] en [[Ashabenford]], junto co
 
 ## Dudas
 
+## Actualización en S041
+
+- Forma parte actualmente de la guardia de [[Leonora]] en [[Ashabenford]].
+
 - Averiguar si Darvan traicionó a [[Firkraag]], fue apartado, estaba ausente por orden de alguien o si la versión de Firkraag está incompleta.

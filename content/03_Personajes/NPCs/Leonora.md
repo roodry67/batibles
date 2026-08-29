@@ -28,6 +28,9 @@ Leonora es hija de [[Firkraag]] y señora actual de [[Ashabenford]]. Forma parte
 - Como señora actual de [[Ashabenford]], el título local asociado al volcán y al antiguo dominio de Firkraag recaería ahora en ella.
 - Firkraag reaccionó con furia al verla y la considera objetivo de venganza.
 - Encarga al grupo resolver el problema de la [[Arboleda de Cormanthor]], conseguir [[madera férrea]] y hacer que los druidas vuelvan a ayudar con las cosechas.
+- Durante las celebraciones de [[S041 - Moneda Negra y regreso a Ashabenford]], pide a los Batibles desescalar peleas y curar a los heridos.
+- Sugiere consultar a [[Aleria]] sobre la maldición de los mapaches.
+- [[Darvan]] y [[Cilethor]] forman parte actualmente de su guardia.
 
 ## Importancia actual
 
@@ -48,6 +51,7 @@ Leonora es hija de [[Firkraag]] y señora actual de [[Ashabenford]]. Forma parte
 
 - [[S035 - Regreso a Tilverton y los Dragones]]
 - [[S036 - Llegada a Ashabenford y Leonora]]
+- [[S041 - Moneda Negra y regreso a Ashabenford]]
 
 ## Dudas
 

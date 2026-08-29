@@ -55,6 +55,12 @@ Bram está ligado a [[Firkraag]], dragón rojo muerto y antiguo señor de [[Asha
 
 ## Dudas
 
+## Actualización en S041
+
+- Cierra con [[Ethel]] un trato que podría aportar información para separarlo de [[Firkraag]].
+- Entrega a [[Walter Elias]] información sobre atentados en [[Draconia]] y el [[Devorador]]. Recibe la [[Varita de Guarda contra la Muerte]] y acepta llevar el [[Colgante de retransmisión de Walter Elias]] durante el torneo.
+- La presencia de Firkraag reacciona con rabia al volver al [[Coliseo de Ashabenford]], donde murió.
+
 - Confirmar si Bram sigue interesado en recuperar, consultar o destruir el tomo del [[Demonomicon]].
 - Confirmar hasta qué punto Firkraag puede tomar control del cuerpo de Bram.
 - Confirmar si Bram seguirá cumpliendo el acuerdo de los cinco minutos diarios.

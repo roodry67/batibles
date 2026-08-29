@@ -22,6 +22,14 @@ tags:
 
 # Arboleda de Cormanthor
 
+## Actualización en S040
+
+- [[Beran]] lidera el Círculo de la Vida y se opone, junto con [[Ada]], a la actuación de [[Arasyl|Valeera]].
+- [[Painan]] pertenece a los Guardianes de la Luna.
+- El Círculo del Clima impulsó la expulsión infantil de [[Lysara]], pero años después apoyó la readmisión de Arasyl. [[Noldor]] era su antiguo líder; se desconoce la causa del cambio.
+- Valeera conserva suficiente poder como líder del Círculo del Clima para que ni siquiera una confesión de ataques garantice su expulsión.
+- Beran y Ada pueden recibir mensajes mediante un pequeño pájaro mensajero llamado desde el bosque.
+
 ## Resumen
 
 Arboleda druídica de [[Cormanthor]] vinculada al pasado de [[Lysara]]. Actualmente está dividida por la influencia de [[Arasyl]], que ocupa una posición reconocida como líder del Círculo del Clima y cuenta con la protección de [[Brevo]], archidruida de la arboleda.

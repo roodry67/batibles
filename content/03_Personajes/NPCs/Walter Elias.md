@@ -56,3 +56,9 @@ Activo y en posesión del tomo del [[Demonomicon]] que [[Agatha]] había prestad
 - Confirmar qué pretende hacer con el tomo del [[Demonomicon]].
 - Confirmar si obtuvo finalmente el alma de Quamara o si el contrato solo le permitía actuar en su nombre.
 - Confirmar si el cuerpo de [[Arkhan]] tuvo alguna consecuencia posterior.
+## Actualización en S041
+
+- [[Bram]] puede invocarlo pronunciando «Pachuru» tres veces.
+- En [[S041 - Moneda Negra y regreso a Ashabenford]], Bram le entrega información sobre futuros atentados en [[Draconia]] y el [[Devorador]] para que encuentre un comprador.
+- Paga con una [[Varita de Guarda contra la Muerte]] de diez cargas y avisará cuando entregue o venda la información.
+- Entrega a Bram el [[Colgante de retransmisión de Walter Elias]] para observar todo el torneo, sin capacidad de espiarlo fuera de él.

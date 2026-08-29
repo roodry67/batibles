@@ -9,6 +9,17 @@ tags:
 
 # Agenda actual
 
+## Prioridad actual tras S041
+
+- Prepararse para las justas y los Tesoros del Dragón en [[Ashabenford]].
+- Cumplir la petición de [[Leonora]] de desescalar peleas y curar heridos durante las celebraciones.
+- Consultar a [[Aleria]] sobre los mapaches, que viven provisionalmente en el carro; [[Luis]] posee la [[Llave mágica de Luis]].
+- Cumplir el trato con [[Ethel]] y decidir dos recompensas entre cinco. La identidad real de la prisionera no está confirmada.
+- Respetar el pacto de no agresión y no robo con la [[Moneda Negra]], que participará en el torneo.
+- Esperar que [[Walter Elias]] confirme la venta de la información sobre [[Draconia]] y el [[Devorador]].
+- [[Bram]] debe llevar el [[Colgante de retransmisión de Walter Elias]] durante todo el torneo.
+- La investigación de [[Arasyl|Valeera]] queda aplazada voluntariamente para respetar la decisión de [[Lysara]].
+
 ## Próximas acciones
 
 - Resolver inmediatamente qué ocurre con [[Sombra]] cuando empieza a seguir a [[Arasyl]].

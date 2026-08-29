@@ -36,6 +36,11 @@ Durante [[S039 - Entrada a la arboleda]], Arasyl se marcha tras aceptar usar un 
 
 ## Dudas
 
+## Actualización en S040
+
+- La confusión entre [[Lysara]] y [[Arasyl|Valeera]] parece deberse a que Valeera es un clon de Lysara.
+- Tras pasar la noche con Valeera, Sombra vuelve a reconocer auténticamente a Lysara como su compañera y se marcha con ella.
+
 - Confirmar si Sombra está hechizada, influida o actuando por voluntad propia.
 - Confirmar qué le dijo Arasyl.
 - Confirmar si Sombra reconoce a Arasyl como una versión de Lysara.

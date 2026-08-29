@@ -51,3 +51,11 @@ Ethel es una saga del bosque vinculada a [[Cormanthor]], distinta de [[Agatha]].
 - Confirmar si [[Agatha]] es una de sus hermanas.
 - Confirmar qué precio pedirá por ayudar a [[Bram]] o a los mapaches.
 - Confirmar si su petición sobre la hermana es literal o contiene algún engaño.
+## Actualización en S041
+
+- En [[S041 - Moneda Negra y regreso a Ashabenford]], acuerda que los Batibles liberen a la persona que presenta como su hermana a cambio de dos recompensas entre cinco.
+- Las recompensas posibles son: transparencia obligatoria en sus tratos durante diez años; todo su conocimiento sobre el problema de [[Bram]] y [[Firkraag]]; todo lo que sabe del pasado olvidado de [[Lysara]]; curar a los mapaches; o el [[Batido Mágico de Ethel]]. Todavía no se ha elegido ninguna.
+
+## Sospechas del grupo
+
+- Por cómo planteó el trato, los Batibles sospechan que la prisionera podría ser la propia Ethel. No está confirmado.

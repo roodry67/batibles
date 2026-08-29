@@ -12,6 +12,11 @@ tags:
 ---
 # Trama - Firkraag
 
+## Actualización en S041
+
+- Obtener todo el conocimiento de [[Ethel]] sobre posibles soluciones es una de las cinco recompensas posibles del trato; todavía no se ha elegido.
+- [[Firkraag]] reacciona con rabia cuando [[Bram]] entra en el [[Coliseo de Ashabenford]], escenario de su batalla final y muerte.
+
 ## Resumen
 
 [[Firkraag]] es un dragón rojo muerto cuya alma está ligada a [[Bram]]. La trama abierta combina tres problemas: separar a Firkraag del cuerpo de Bram, entender cómo ocurrió la unión, y gestionar la venganza que Firkraag exige contra quienes participaron en su muerte.

@@ -89,6 +89,10 @@ Objetivos o personas relevantes:
 
 ## Dudas
 
+## Actualización en S041
+
+- Al entrar [[Bram]] en el [[Coliseo de Ashabenford]], Firkraag reacciona dentro de él con una intensa rabia. El coliseo fue el lugar de su batalla final y de su muerte.
+
 - ¿Cómo acabó exactamente el alma de Firkraag ligada a Bram?
 - ¿Qué hizo [[Izzy]] con el cuerpo de Firkraag, si hizo algo?
 - ¿Por qué [[Darvan]] y [[Cilethor]] no estaban presentes cuando Firkraag murió?

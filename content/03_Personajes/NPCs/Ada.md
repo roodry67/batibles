@@ -50,3 +50,9 @@ Presente en el conclave cuando [[Brevo]] trae a [[Arasyl]] para hablar con el gr
 
 - Confirmar si Ada es la sabia oficial del Círculo de la Tierra o una representante presente en esa reunión.
 - Confirmar su postura personal frente a Arasyl, más allá de la posición general de su círculo.
+
+## Actualización en S040
+
+- Se confirma que se opone a la actuación de [[Arasyl|Valeera]] y que, junto con [[Beran]], pide pruebas sobre ella.
+- Se opuso a expulsar a [[Lysara]] cuando era niña y posteriormente apoyó la readmisión de Arasyl creyendo que era Lysara; ahora se arrepiente.
+- Puede recibir mensajes mediante un pequeño pájaro mensajero llamado desde el bosque.

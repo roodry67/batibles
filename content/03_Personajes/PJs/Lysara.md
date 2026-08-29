@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: pj
 icon: LiUserRoundCheck
 iconColor: "#2563eb"
@@ -44,6 +44,12 @@ Lysara es una de los Batibles y está directamente conectada con [[Arasyl]], su 
 - [[S039 - Entrada a la arboleda]]
 
 ## Dudas
+
+## Actualización en S040-S041
+
+- Recupera el reconocimiento de [[Sombra]] como su compañera tras la confusión con [[Arasyl|Valeera]].
+- Acepta la petición de Valeera de no interferir en su vida; el grupo aplaza voluntariamente la investigación.
+- [[Ethel]] parece conocer acontecimientos olvidados de su pasado. Obtener todo ese conocimiento es una de las cinco recompensas posibles del trato.
 
 - Confirmar qué relación tuvo Lysara con [[Ethel]] en el pasado.
 - Confirmar qué sabe realmente la [[Arboleda de Cormanthor]] sobre Arasyl.
